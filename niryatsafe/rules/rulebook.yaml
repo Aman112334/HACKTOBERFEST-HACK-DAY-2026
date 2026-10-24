@@ -1,0 +1,518 @@
+# NiryatSafe rules pack: metadata, sources, analytes, markets.
+#
+# The LIMITS live in limits.csv, one row per rule:  product,substance,market,limit_mg_kg,source  (+ optional form,basis,note)
+# A new market or substance is new rows in limits.csv (plus a `markets:` entry for a market), not new code.
+#
+# Every rule has a `basis`: law | guidance | practice. Only `law` can produce HOLD.
+# verified: primary = text read from the official document during the 2026-10-20 review;
+#           secondary = confirmed through reputable summaries / reprints, re-check before relying.
+meta:
+  id: eu-basmati
+  version: 1.0.0
+  verified_on: '2026-10-20'
+  scope_en: Basmati rice (CN 1006), India to the European Union
+  scope_hi: बासमती चावल (CN 1006), भारत से यूरोपीय संघ
+  policy:
+    watch_fraction: 0.8
+    report_max_age_days: 60
+    stale_after_days: 120
+    mu_default: 0.5
+    risk_high: 10
+    risk_med: 3
+  released: '2026-10-21'
+  default_market: EU
+sources:
+  reg_396_2005:
+    title: 'Regulation (EC) No 396/2005 — pesticide MRLs; Art. 18(1)(b): default MRL 0.01 mg/kg where none is set'
+    url: https://eur-lex.europa.eu/eli/reg/2005/396/oj
+    kind: law
+    verified: secondary
+  reg_2017_983:
+    title: Commission Regulation (EU) 2017/983 — tricyclazole MRL in rice 0.01 mg/kg (LOQ); applies to Basmati from 30 Dec 2017
+    url: https://eur-lex.europa.eu/eli/reg/2017/983/oj/eng
+    kind: law
+    date: '2017-06-09'
+    verified: primary
+  ls_1314_2024:
+    title: Lok Sabha USQ 1314 (30 Jul 2024), Annexure — EU MRLs for rice at 0.01 mg/kg, as on 24.07.2024
+    url: https://eparlib.nic.in/bitstream/123456789/2978412/1/AU1314_HqO1aN.pdf
+    kind: official
+    date: '2024-07-24'
+    verified: primary
+  ls_2057_2025:
+    title: Lok Sabha USQ 2057 (11 Mar 2025) — RASFF detections in Indian rice 2015-2025; EU vs Codex vs FSSAI limits
+    url: https://www.commerce.gov.in/wp-content/uploads/2025/03/LS-USQ-No.2057-dated.-11.03.2025.pdf
+    kind: official
+    date: '2025-03-11'
+    verified: primary
+  reg_2023_915:
+    title: Commission Regulation (EU) 2023/915 — contaminants in food; Annex I 1.1 aflatoxins, 1.2 ochratoxin A
+    url: https://eur-lex.europa.eu/eli/reg/2023/915/oj
+    kind: law
+    verified: secondary
+  reg_2023_465:
+    title: 'Commission Regulation (EU) 2023/465 — inorganic arsenic: 0.15 mg/kg non-parboiled milled rice; 0.25 parboiled and husked rice'
+    url: https://eur-lex.europa.eu/eli/reg/2023/465/oj
+    kind: law
+    date: '2023-03-03'
+    verified: primary
+  reg_2021_1323:
+    title: 'Commission Regulation (EU) 2021/1323 — cadmium: rice 0.20 mg/kg (carried into 2023/915)'
+    url: https://eur-lex.europa.eu/eli/reg/2021/1323/oj/eng
+    kind: law
+    date: '2021-08-10'
+    verified: primary
+  reg_2019_1793:
+    title: Implementing Regulation (EU) 2019/1793 — temporary increase of official controls on food of non-animal origin
+    url: https://eur-lex.europa.eu/eli/reg_impl/2019/1793/oj
+    kind: law
+    verified: primary
+  reg_2026_194:
+    title: 'Implementing Regulation (EU) 2026/194 (in force 18 Feb 2026) — Annex I: India, rice (CN 1006), pesticide residues, 10% identity and
+      physical checks'
+    url: https://eur-lex.europa.eu/eli/reg_impl/2026/194/oj/eng
+    kind: law
+    date: '2026-01-28'
+    verified: primary
+  sante_11312:
+    title: SANTE/11312/2021 v2 — pesticide residue analysis; default expanded measurement uncertainty 50%
+    url: https://food.ec.europa.eu/document/download/d4786faf-c574-4222-a5c6-45086b3920b8_en
+    kind: guidance
+    verified: secondary
+  rasff_wi_2_2:
+    title: ACN working instruction 2.2 — default measurement uncertainty 50%; notification mandatory when an MRL is exceeded
+    url: https://food.ec.europa.eu/system/files/2022-03/rasff_reg-guid_sops_wi-2-2_en.pdf
+    kind: guidance
+    verified: secondary
+  apeda_rice_req:
+    title: 'APEDA — Requirements for export of rice: IEC, phytosanitary certificate (DPPQS), RCAC; EIC/EIA certificate of inspection for the EU'
+    url: https://apeda.gov.in/node/6866
+    kind: official
+    verified: primary
+  dgft_29_2015:
+    title: DGFT Notification 29/2015-20 (4 Nov 2019) — rice (Basmati and non-Basmati) to the EU needs a Certificate of Inspection from EIC/EIA
+    url: https://taxguru.in/dgft/dgft-notifies-eic-eia-inspection-agency-export-rice-eu.html
+    kind: official
+    date: '2019-11-04'
+    verified: secondary
+  taric_1006:
+    title: EU TARIC, heading 1006 — CHED-D (Implementing Regulation (EU) 2019/1715) among import conditions
+    url: https://www.thetradehub.eu/en/customs/taric/100620920080
+    kind: official
+    verified: secondary
+  punjab_2025:
+    title: 'Punjab Government: 60-day ban on listed insecticides on basmati (1 Aug-30 Sep 2025; gazette 10 May 2025; hexaconazole added 15 Jul
+      2025)'
+    url: https://www.global-agriculture.com/india-region/hexaconazole-added-to-the-list-of-insecticides-banned-for-basmati-paddy-in-punjab/
+    kind: news
+    date: '2025-07-25'
+    verified: secondary
+  iref_2026:
+    title: IREF, 25 Sep 2026 — pesticide residues and quality gaps drive rice rejections; stronger pre-shipment checks can curb risks
+    url: https://aninews.in/news/business/pesticide-residues-quality-gaps-drive-indian-rice-shipment-rejections-stronger-pre-shipment-checks-can-curb-risks-iref20260925102648/
+    kind: news
+    date: '2026-09-25'
+    verified: secondary
+  eu_pesticides_db:
+    title: "EU Pesticides Database, MRL search for rice (used by `python -m pipeline limits-diff` before each release)"
+    url: https://food.ec.europa.eu/plants/pesticides/eu-pesticides-database_en
+    kind: official
+    verified: unchecked
+analytes:
+  tricyclazole:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Tricyclazole
+      hi: ट्राइसाइक्लाज़ोल
+    aliases:
+    - tricyclazol
+    - tcz
+    punjab_2025: true
+  thiamethoxam:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Thiamethoxam
+      hi: थायामेथोक्सम
+    aliases:
+    - thiamethoxan
+    - tmx
+    punjab_2025: true
+  chlorpyrifos:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Chlorpyrifos
+      hi: क्लोरपाइरीफॉस
+    aliases:
+    - chlorpyriphos
+    - chlorpyrifos-ethyl
+    - chlorpyriphos ethyl
+    punjab_2025: true
+  imidacloprid:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Imidacloprid
+      hi: इमिडाक्लोप्रिड
+    aliases: []
+    punjab_2025: true
+  carbendazim:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Carbendazim
+      hi: कार्बेन्डाज़िम
+    aliases:
+    - benomyl
+    - carbendazim and benomyl
+    - carbendazim (sum)
+    punjab_2025: true
+  propiconazole:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Propiconazole
+      hi: प्रोपिकोनाज़ोल
+    aliases: []
+    punjab_2025: true
+  buprofezin:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Buprofezin
+      hi: ब्यूप्रोफेज़िन
+    aliases: []
+    punjab_2025: true
+  profenofos:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Profenofos
+      hi: प्रोफेनोफॉस
+    aliases:
+    - profenophos
+    punjab_2025: true
+  acephate:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Acephate
+      hi: एसेफेट
+    aliases: []
+    punjab_2025: true
+  hexaconazole:
+    kind: pesticide
+    unit: mg/kg
+    tier: must
+    names:
+      en: Hexaconazole
+      hi: हेक्साकोनाज़ोल
+    aliases: []
+    punjab_2025: true
+  methamidophos:
+    kind: pesticide
+    unit: mg/kg
+    tier: should
+    names:
+      en: Methamidophos
+      hi: मेथामिडोफॉस
+    aliases: []
+  triazophos:
+    kind: pesticide
+    unit: mg/kg
+    tier: should
+    names:
+      en: Triazophos
+      hi: ट्राइएज़ोफॉस
+    aliases: []
+  acetamiprid:
+    kind: pesticide
+    unit: mg/kg
+    tier: should
+    names:
+      en: Acetamiprid
+      hi: एसिटामिप्रिड
+    aliases: []
+  carbofuran:
+    kind: pesticide
+    unit: mg/kg
+    tier: should
+    names:
+      en: Carbofuran
+      hi: कार्बोफ्यूरान
+    aliases:
+    - 3-hydroxycarbofuran
+    - carbofuran (sum)
+    punjab_2025: true
+  chlorpyrifos_methyl:
+    kind: pesticide
+    unit: mg/kg
+    tier: should
+    names:
+      en: Chlorpyrifos-methyl
+      hi: क्लोरपाइरीफॉस-मिथाइल
+    aliases:
+    - chlorpyrifos methyl
+    - chlorpyriphos methyl
+    - chlorpyriphos-methyl
+  tebuconazole:
+    kind: pesticide
+    unit: mg/kg
+    tier: watch
+    names:
+      en: Tebuconazole
+      hi: टेबुकोनाज़ोल
+    aliases: []
+    punjab_2025: true
+  thifluzamide:
+    kind: pesticide
+    unit: mg/kg
+    tier: watch
+    names:
+      en: Thifluzamide
+      hi: थिफ्लुज़ामाइड
+    aliases: []
+  aflatoxin_b1:
+    kind: mycotoxin
+    unit: ug/kg
+    tier: should
+    names:
+      en: Aflatoxin B1
+      hi: अफ्लाटॉक्सिन B1
+    aliases:
+    - aflatoxin-b1
+    - afb1
+    - b1
+  aflatoxin_total:
+    kind: mycotoxin
+    unit: ug/kg
+    tier: should
+    names:
+      en: Aflatoxins B1+B2+G1+G2
+      hi: कुल अफ्लाटॉक्सिन (B1+B2+G1+G2)
+    aliases:
+    - total aflatoxin
+    - total aflatoxins
+    - aflatoxins total
+    - sum of aflatoxins
+    - aflatoxins
+    - afs
+  ochratoxin_a:
+    kind: mycotoxin
+    unit: ug/kg
+    tier: should
+    names:
+      en: Ochratoxin A
+      hi: ओक्राटॉक्सिन A
+    aliases:
+    - ochratoxin
+    - ota
+  arsenic_inorganic:
+    kind: metal
+    unit: mg/kg
+    tier: should
+    names:
+      en: Inorganic arsenic
+      hi: अकार्बनिक आर्सेनिक
+    aliases:
+    - arsenic inorganic
+    - inorganic as
+    - i-as
+    - arsenic (inorganic)
+  arsenic_total:
+    kind: metal
+    unit: mg/kg
+    tier: should
+    screen_for: arsenic_inorganic
+    names:
+      en: Total arsenic
+      hi: कुल आर्सेनिक
+    aliases:
+    - arsenic
+    - total as
+    - as
+    - arsenic (as)
+  cadmium:
+    kind: metal
+    unit: mg/kg
+    tier: should
+    names:
+      en: Cadmium
+      hi: कैडमियम
+    aliases:
+    - cd
+    - cadmium (cd)
+countries:
+  AT:
+    en: Austria
+    hi: ऑस्ट्रिया
+  BE:
+    en: Belgium
+    hi: बेल्जियम
+  BG:
+    en: Bulgaria
+    hi: बुल्गारिया
+  HR:
+    en: Croatia
+    hi: क्रोएशिया
+  CY:
+    en: Cyprus
+    hi: साइप्रस
+  CZ:
+    en: Czechia
+    hi: चेकिया
+  DK:
+    en: Denmark
+    hi: डेनमार्क
+  EE:
+    en: Estonia
+    hi: एस्टोनिया
+  FI:
+    en: Finland
+    hi: फ़िनलैंड
+  FR:
+    en: France
+    hi: फ़्रांस
+  DE:
+    en: Germany
+    hi: जर्मनी
+  GR:
+    en: Greece
+    hi: यूनान
+  HU:
+    en: Hungary
+    hi: हंगरी
+  IE:
+    en: Ireland
+    hi: आयरलैंड
+  IT:
+    en: Italy
+    hi: इटली
+  LV:
+    en: Latvia
+    hi: लातविया
+  LT:
+    en: Lithuania
+    hi: लिथुआनिया
+  LU:
+    en: Luxembourg
+    hi: लक्ज़मबर्ग
+  MT:
+    en: Malta
+    hi: माल्टा
+  NL:
+    en: Netherlands
+    hi: नीदरलैंड
+  PL:
+    en: Poland
+    hi: पोलैंड
+  PT:
+    en: Portugal
+    hi: पुर्तगाल
+  RO:
+    en: Romania
+    hi: रोमानिया
+  SK:
+    en: Slovakia
+    hi: स्लोवाकिया
+  SI:
+    en: Slovenia
+    hi: स्लोवेनिया
+  ES:
+    en: Spain
+    hi: स्पेन
+  SE:
+    en: Sweden
+    hi: स्वीडन
+markets:
+  EU:
+    name:
+      en: European Union
+      hi: यूरोपीय संघ
+    countries:
+    - AT
+    - BE
+    - BG
+    - HR
+    - CY
+    - CZ
+    - DK
+    - EE
+    - FI
+    - FR
+    - DE
+    - GR
+    - HU
+    - IE
+    - IT
+    - LV
+    - LT
+    - LU
+    - MT
+    - NL
+    - PL
+    - PT
+    - RO
+    - SK
+    - SI
+    - ES
+    - SE
+    default_limit: 0.01
+    default_source: reg_396_2005
+    regime:
+      increased_checks:
+        pct: 10
+        hazard: pesticide_residues
+        cn: '1006'
+        in_force: '2026-02-18'
+        sources:
+        - reg_2026_194
+        - reg_2019_1793
+    docs:
+    - id: iec
+      gate: papers
+      missing: fix
+      basis: law
+      sources:
+      - apeda_rice_req
+    - id: rcac
+      gate: papers
+      missing: fix
+      basis: law
+      sources:
+      - apeda_rice_req
+    - id: phyto
+      gate: papers
+      missing: fix
+      basis: law
+      sources:
+      - apeda_rice_req
+    - id: coi
+      gate: papers
+      missing: fix
+      basis: law
+      sources:
+      - dgft_29_2015
+      - apeda_rice_req
+    - id: invoice_pl
+      gate: papers
+      missing: fix
+      basis: practice
+      sources: []
+    - id: ched_d
+      gate: papers
+      missing: note
+      basis: law
+      sources:
+      - taric_1006

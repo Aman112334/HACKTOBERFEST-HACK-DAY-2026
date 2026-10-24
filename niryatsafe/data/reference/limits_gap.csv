@@ -1,0 +1,15 @@
+analyte,eu_before,eu_now,codex,fssai,codex_note,source_id
+tricyclazole,1.0,0.01,,3.0,,ls_2057_2025
+thiamethoxam,0.01,0.01,3.0,0.02,polished rice,ls_2057_2025
+chlorpyrifos,0.5,0.01,,0.5,,ls_2057_2025
+imidacloprid,1.5,0.01,,0.05,,ls_2057_2025
+carbendazim,0.01,0.01,2.0,2.0,husked rice,ls_2057_2025
+propiconazole,1.5,0.01,,0.05,,ls_2057_2025
+buprofezin,0.5,0.01,,0.05,,ls_2057_2025
+profenofos,0.01,0.01,,,,ls_2057_2025
+thifluzamide,,,,0.05,,ls_2057_2025
+imazalil,0.05,0.01,,,,ls_2057_2025
+acephate,0.02,0.01,1.0,1.0,husked rice,ls_2057_2025
+methamidophos,0.01,0.01,0.6,,husked rice,ls_2057_2025
+triazophos,0.02,0.02,0.6,0.6,polished rice,ls_2057_2025
+chlorpyrifos_methyl,3.0,0.01,,,,ls_2057_2025
