@@ -1,0 +1,8250 @@
+{
+ "analytes": {
+  "1_1_dichloro_2_2_bis_4_ethylphenyl_ethane": {
+   "aliases": [],
+   "auto": true,
+   "id": "1_1_dichloro_2_2_bis_4_ethylphenyl_ethane",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "1,1-dichloro-2,2-bis(4-ethylphenyl)ethane",
+    "hi": "1,1-dichloro-2,2-bis(4-ethylphenyl)ethane"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "1_2_dibromoethane": {
+   "aliases": [],
+   "auto": true,
+   "id": "1_2_dibromoethane",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "1,2-dibromoethane",
+    "hi": "1,2-dibromoethane"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "1_2_dichloroethane": {
+   "aliases": [],
+   "auto": true,
+   "id": "1_2_dichloroethane",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "1,2-dichloroethane",
+    "hi": "1,2-dichloroethane"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "1_3_dichloropropene": {
+   "aliases": [],
+   "auto": true,
+   "id": "1_3_dichloropropene",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "1,3-dichloropropene",
+    "hi": "1,3-dichloropropene"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "1_methylcyclopropene": {
+   "aliases": [],
+   "auto": true,
+   "id": "1_methylcyclopropene",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "1-methylcyclopropene",
+    "hi": "1-methylcyclopropene"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "2_4_5_t": {
+   "aliases": [],
+   "auto": true,
+   "id": "2_4_5_t",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "2,4,5-t",
+    "hi": "2,4,5-t"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "2_4_db": {
+   "aliases": [],
+   "auto": true,
+   "id": "2_4_db",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "2,4-db",
+    "hi": "2,4-db"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "2_5_dichlorobenzoic_acid_methylester": {
+   "aliases": [],
+   "auto": true,
+   "id": "2_5_dichlorobenzoic_acid_methylester",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "2,5-dichlorobenzoic acid methylester",
+    "hi": "2,5-dichlorobenzoic acid methylester"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "2_naphthyloxyacetic_acid": {
+   "aliases": [],
+   "auto": true,
+   "id": "2_naphthyloxyacetic_acid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "2-naphthyloxyacetic acid",
+    "hi": "2-naphthyloxyacetic acid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "6_benzyladenine": {
+   "aliases": [],
+   "auto": true,
+   "id": "6_benzyladenine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "6-benzyladenine",
+    "hi": "6-benzyladenine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "abamectin": {
+   "aliases": [],
+   "auto": true,
+   "id": "abamectin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Abamectin",
+    "hi": "Abamectin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "acephate": {
+   "aliases": [],
+   "id": "acephate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 1.0,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Acephate",
+    "hi": "एसेफेट"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "acequinocyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "acequinocyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Acequinocyl",
+    "hi": "Acequinocyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "acetamiprid": {
+   "aliases": [],
+   "id": "acetamiprid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Acetamiprid",
+    "hi": "एसिटामिप्रिड"
+   },
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "acetochlor": {
+   "aliases": [],
+   "auto": true,
+   "id": "acetochlor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Acetochlor",
+    "hi": "Acetochlor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "acibenzolar_s_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "acibenzolar_s_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Acibenzolar-s-methyl",
+    "hi": "Acibenzolar-s-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "aclonifen": {
+   "aliases": [],
+   "auto": true,
+   "id": "aclonifen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Aclonifen",
+    "hi": "Aclonifen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "acrinathrin": {
+   "aliases": [],
+   "auto": true,
+   "id": "acrinathrin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Acrinathrin",
+    "hi": "Acrinathrin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "aflatoxin_b1": {
+   "aliases": [
+    "aflatoxin-b1",
+    "afb1",
+    "b1"
+   ],
+   "id": "aflatoxin_b1",
+   "kind": "mycotoxin",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 2.0,
+     "sources": [
+      "reg_2023_915"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 10.0,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Aflatoxin B1",
+    "hi": "अफ्लाटॉक्सिन B1"
+   },
+   "tier": "should",
+   "unit": "ug/kg"
+  },
+  "aflatoxin_total": {
+   "aliases": [
+    "total aflatoxin",
+    "total aflatoxins",
+    "aflatoxins total",
+    "sum of aflatoxins",
+    "aflatoxins",
+    "afs"
+   ],
+   "id": "aflatoxin_total",
+   "kind": "mycotoxin",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 4.0,
+     "sources": [
+      "reg_2023_915"
+     ]
+    }
+   },
+   "names": {
+    "en": "Aflatoxins B1+B2+G1+G2",
+    "hi": "कुल अफ्लाटॉक्सिन (B1+B2+G1+G2)"
+   },
+   "tier": "should",
+   "unit": "ug/kg"
+  },
+  "alachlor": {
+   "aliases": [],
+   "auto": true,
+   "id": "alachlor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Alachlor",
+    "hi": "Alachlor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "aldrin_and_dieldrin": {
+   "aliases": [],
+   "auto": true,
+   "id": "aldrin_and_dieldrin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Aldrin and dieldrin",
+    "hi": "Aldrin and dieldrin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ametoctradin": {
+   "aliases": [],
+   "auto": true,
+   "id": "ametoctradin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ametoctradin",
+    "hi": "Ametoctradin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "amidosulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "amidosulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Amidosulfuron",
+    "hi": "Amidosulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "amisulbrom": {
+   "aliases": [],
+   "auto": true,
+   "id": "amisulbrom",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Amisulbrom",
+    "hi": "Amisulbrom"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "amitrole": {
+   "aliases": [],
+   "auto": true,
+   "id": "amitrole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Amitrole",
+    "hi": "Amitrole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "anilazine": {
+   "aliases": [],
+   "auto": true,
+   "id": "anilazine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Anilazine",
+    "hi": "Anilazine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "anthraquinone": {
+   "aliases": [],
+   "auto": true,
+   "id": "anthraquinone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Anthraquinone",
+    "hi": "Anthraquinone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "aramite": {
+   "aliases": [],
+   "auto": true,
+   "id": "aramite",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Aramite",
+    "hi": "Aramite"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "arsenic_inorganic": {
+   "aliases": [
+    "arsenic inorganic",
+    "inorganic as",
+    "i-as",
+    "arsenic (inorganic)"
+   ],
+   "id": "arsenic_inorganic",
+   "kind": "metal",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "by_form": {
+      "brown": 0.25,
+      "raw_white": 0.15,
+      "sella": 0.25
+     },
+     "sources": [
+      "reg_2023_465"
+     ]
+    }
+   },
+   "names": {
+    "en": "Inorganic arsenic",
+    "hi": "अकार्बनिक आर्सेनिक"
+   },
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "arsenic_total": {
+   "aliases": [
+    "arsenic",
+    "total as",
+    "as",
+    "arsenic (as)"
+   ],
+   "id": "arsenic_total",
+   "kind": "metal",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "by_form": {
+      "brown": 0.25,
+      "raw_white": 0.15,
+      "sella": 0.25
+     },
+     "sources": [
+      "reg_2023_465"
+     ]
+    }
+   },
+   "names": {
+    "en": "Total arsenic",
+    "hi": "कुल आर्सेनिक"
+   },
+   "screen_for": "arsenic_inorganic",
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "azimsulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "azimsulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Azimsulfuron",
+    "hi": "Azimsulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "azinphos_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "azinphos_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Azinphos-methyl",
+    "hi": "Azinphos-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "azocyclotin_and_cyhexatin": {
+   "aliases": [],
+   "auto": true,
+   "id": "azocyclotin_and_cyhexatin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Azocyclotin and cyhexatin",
+    "hi": "Azocyclotin and cyhexatin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "barban": {
+   "aliases": [],
+   "auto": true,
+   "id": "barban",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Barban",
+    "hi": "Barban"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "beflubutamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "beflubutamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Beflubutamid",
+    "hi": "Beflubutamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "benalaxyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "benalaxyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Benalaxyl",
+    "hi": "Benalaxyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bensulfuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "bensulfuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bensulfuron-methyl",
+    "hi": "Bensulfuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "benzovindiflupyr": {
+   "aliases": [],
+   "auto": true,
+   "id": "benzovindiflupyr",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Benzovindiflupyr",
+    "hi": "Benzovindiflupyr"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bifenox": {
+   "aliases": [],
+   "auto": true,
+   "id": "bifenox",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bifenox",
+    "hi": "Bifenox"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bifenthrin": {
+   "aliases": [],
+   "auto": true,
+   "id": "bifenthrin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bifenthrin",
+    "hi": "Bifenthrin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "biphenyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "biphenyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Biphenyl",
+    "hi": "Biphenyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bitertanol": {
+   "aliases": [],
+   "auto": true,
+   "id": "bitertanol",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bitertanol",
+    "hi": "Bitertanol"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bixafen": {
+   "aliases": [],
+   "auto": true,
+   "id": "bixafen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bixafen",
+    "hi": "Bixafen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bone_oil": {
+   "aliases": [],
+   "auto": true,
+   "id": "bone_oil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bone oil",
+    "hi": "Bone oil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bromadiolone": {
+   "aliases": [],
+   "auto": true,
+   "id": "bromadiolone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bromadiolone",
+    "hi": "Bromadiolone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bromophos_ethyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "bromophos_ethyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bromophos-ethyl",
+    "hi": "Bromophos-ethyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bromopropylate": {
+   "aliases": [],
+   "auto": true,
+   "id": "bromopropylate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bromopropylate",
+    "hi": "Bromopropylate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bromoxynil": {
+   "aliases": [],
+   "auto": true,
+   "id": "bromoxynil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bromoxynil",
+    "hi": "Bromoxynil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bromuconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "bromuconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bromuconazole",
+    "hi": "Bromuconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "bupirimate": {
+   "aliases": [],
+   "auto": true,
+   "id": "bupirimate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Bupirimate",
+    "hi": "Bupirimate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "buprofezin": {
+   "aliases": [],
+   "id": "buprofezin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 0.05,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Buprofezin",
+    "hi": "ब्यूप्रोफेज़िन"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "butralin": {
+   "aliases": [],
+   "auto": true,
+   "id": "butralin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Butralin",
+    "hi": "Butralin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "butylate": {
+   "aliases": [],
+   "auto": true,
+   "id": "butylate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Butylate",
+    "hi": "Butylate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cadmium": {
+   "aliases": [
+    "cd",
+    "cadmium (cd)"
+   ],
+   "id": "cadmium",
+   "kind": "metal",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.2,
+     "sources": [
+      "reg_2021_1323"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cadmium",
+    "hi": "कैडमियम"
+   },
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "cadusafos": {
+   "aliases": [],
+   "auto": true,
+   "id": "cadusafos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cadusafos",
+    "hi": "Cadusafos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "camphechlor": {
+   "aliases": [],
+   "auto": true,
+   "id": "camphechlor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Camphechlor",
+    "hi": "Camphechlor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "carbaryl": {
+   "aliases": [],
+   "auto": true,
+   "id": "carbaryl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Carbaryl",
+    "hi": "Carbaryl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "carbendazim": {
+   "aliases": [
+    "benomyl",
+    "carbendazim and benomyl",
+    "carbendazim (sum)"
+   ],
+   "id": "carbendazim",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 2.0,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Carbendazim",
+    "hi": "कार्बेन्डाज़िम"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "carbetamide": {
+   "aliases": [],
+   "auto": true,
+   "id": "carbetamide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Carbetamide",
+    "hi": "Carbetamide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "carbofuran": {
+   "aliases": [
+    "3-hydroxycarbofuran",
+    "carbofuran (sum)"
+   ],
+   "id": "carbofuran",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Carbofuran",
+    "hi": "कार्बोफ्यूरान"
+   },
+   "punjab_2025": true,
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "carbon_monoxide": {
+   "aliases": [],
+   "auto": true,
+   "id": "carbon_monoxide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Carbon monoxide",
+    "hi": "Carbon monoxide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "carbon_tetrachloride": {
+   "aliases": [],
+   "auto": true,
+   "id": "carbon_tetrachloride",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Carbon tetrachloride",
+    "hi": "Carbon tetrachloride"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorbenside": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorbenside",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorbenside",
+    "hi": "Chlorbenside"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorbufam": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorbufam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorbufam",
+    "hi": "Chlorbufam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlordecone": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlordecone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlordecone",
+    "hi": "Chlordecone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorfenson": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorfenson",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorfenson",
+    "hi": "Chlorfenson"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorfenvinphos": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorfenvinphos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorfenvinphos",
+    "hi": "Chlorfenvinphos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlormequat": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlormequat",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlormequat",
+    "hi": "Chlormequat"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorothalonil": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorothalonil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorothalonil",
+    "hi": "Chlorothalonil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorotoluron": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorotoluron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorotoluron",
+    "hi": "Chlorotoluron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorpropham": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorpropham",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorpropham",
+    "hi": "Chlorpropham"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorpyrifos": {
+   "aliases": [
+    "chlorpyriphos",
+    "chlorpyrifos-ethyl",
+    "chlorpyriphos ethyl"
+   ],
+   "id": "chlorpyrifos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 0.5,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorpyrifos",
+    "hi": "क्लोरपाइरीफॉस"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "chlorpyrifos_methyl": {
+   "aliases": [
+    "chlorpyrifos methyl",
+    "chlorpyriphos methyl",
+    "chlorpyriphos-methyl"
+   ],
+   "id": "chlorpyrifos_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorpyrifos-methyl",
+    "hi": "क्लोरपाइरीफॉस-मिथाइल"
+   },
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "chlorsulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorsulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorsulfuron",
+    "hi": "Chlorsulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorthal_dimethyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorthal_dimethyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorthal-dimethyl",
+    "hi": "Chlorthal-dimethyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlorthiamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlorthiamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlorthiamid",
+    "hi": "Chlorthiamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chlozolinate": {
+   "aliases": [],
+   "auto": true,
+   "id": "chlozolinate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chlozolinate",
+    "hi": "Chlozolinate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "chromafenozide": {
+   "aliases": [],
+   "auto": true,
+   "id": "chromafenozide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Chromafenozide",
+    "hi": "Chromafenozide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "clomazone": {
+   "aliases": [],
+   "auto": true,
+   "id": "clomazone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Clomazone",
+    "hi": "Clomazone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cyanamide": {
+   "aliases": [],
+   "auto": true,
+   "id": "cyanamide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cyanamide",
+    "hi": "Cyanamide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cyantraniliprole": {
+   "aliases": [],
+   "auto": true,
+   "id": "cyantraniliprole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cyantraniliprole",
+    "hi": "Cyantraniliprole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cyclaniliprole": {
+   "aliases": [],
+   "auto": true,
+   "id": "cyclaniliprole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cyclaniliprole",
+    "hi": "Cyclaniliprole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cyflufenamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "cyflufenamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cyflufenamid",
+    "hi": "Cyflufenamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cyflumetofen": {
+   "aliases": [],
+   "auto": true,
+   "id": "cyflumetofen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cyflumetofen",
+    "hi": "Cyflumetofen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cyfluthrin": {
+   "aliases": [],
+   "auto": true,
+   "id": "cyfluthrin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cyfluthrin",
+    "hi": "Cyfluthrin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cyhalofop_butyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "cyhalofop_butyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cyhalofop-butyl",
+    "hi": "Cyhalofop-butyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "cymoxanil": {
+   "aliases": [],
+   "auto": true,
+   "id": "cymoxanil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Cymoxanil",
+    "hi": "Cymoxanil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "denatonium_benzoate": {
+   "aliases": [],
+   "auto": true,
+   "id": "denatonium_benzoate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Denatonium benzoate",
+    "hi": "Denatonium benzoate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "desmedipham": {
+   "aliases": [],
+   "auto": true,
+   "id": "desmedipham",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Desmedipham",
+    "hi": "Desmedipham"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "di_allate": {
+   "aliases": [],
+   "auto": true,
+   "id": "di_allate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Di-allate",
+    "hi": "Di-allate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "diazinon": {
+   "aliases": [],
+   "auto": true,
+   "id": "diazinon",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Diazinon",
+    "hi": "Diazinon"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dichlobenil": {
+   "aliases": [],
+   "auto": true,
+   "id": "dichlobenil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dichlobenil",
+    "hi": "Dichlobenil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dichlorvos": {
+   "aliases": [],
+   "auto": true,
+   "id": "dichlorvos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dichlorvos",
+    "hi": "Dichlorvos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "diethofencarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "diethofencarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Diethofencarb",
+    "hi": "Diethofencarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "diflubenzuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "diflubenzuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Diflubenzuron",
+    "hi": "Diflubenzuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "diflufenican": {
+   "aliases": [],
+   "auto": true,
+   "id": "diflufenican",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Diflufenican",
+    "hi": "Diflufenican"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dimethachlor": {
+   "aliases": [],
+   "auto": true,
+   "id": "dimethachlor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dimethachlor",
+    "hi": "Dimethachlor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dimethenamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "dimethenamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dimethenamid",
+    "hi": "Dimethenamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dimethoate": {
+   "aliases": [],
+   "auto": true,
+   "id": "dimethoate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dimethoate",
+    "hi": "Dimethoate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dimethomorph": {
+   "aliases": [],
+   "auto": true,
+   "id": "dimethomorph",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dimethomorph",
+    "hi": "Dimethomorph"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dimoxystrobin": {
+   "aliases": [],
+   "auto": true,
+   "id": "dimoxystrobin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dimoxystrobin",
+    "hi": "Dimoxystrobin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "diniconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "diniconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Diniconazole",
+    "hi": "Diniconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dinoterb": {
+   "aliases": [],
+   "auto": true,
+   "id": "dinoterb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dinoterb",
+    "hi": "Dinoterb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dioxathion": {
+   "aliases": [],
+   "auto": true,
+   "id": "dioxathion",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dioxathion",
+    "hi": "Dioxathion"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "diuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "diuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Diuron",
+    "hi": "Diuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dodemorph": {
+   "aliases": [],
+   "auto": true,
+   "id": "dodemorph",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dodemorph",
+    "hi": "Dodemorph"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "dodine": {
+   "aliases": [],
+   "auto": true,
+   "id": "dodine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Dodine",
+    "hi": "Dodine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "endrin": {
+   "aliases": [],
+   "auto": true,
+   "id": "endrin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Endrin",
+    "hi": "Endrin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "epoxiconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "epoxiconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Epoxiconazole",
+    "hi": "Epoxiconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "eptc": {
+   "aliases": [],
+   "auto": true,
+   "id": "eptc",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Eptc",
+    "hi": "Eptc"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ethalfluralin": {
+   "aliases": [],
+   "auto": true,
+   "id": "ethalfluralin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ethalfluralin",
+    "hi": "Ethalfluralin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ethametsulfuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "ethametsulfuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ethametsulfuron-methyl",
+    "hi": "Ethametsulfuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ethion": {
+   "aliases": [],
+   "auto": true,
+   "id": "ethion",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ethion",
+    "hi": "Ethion"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ethirimol": {
+   "aliases": [],
+   "auto": true,
+   "id": "ethirimol",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ethirimol",
+    "hi": "Ethirimol"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ethoprophos": {
+   "aliases": [],
+   "auto": true,
+   "id": "ethoprophos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ethoprophos",
+    "hi": "Ethoprophos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ethoxysulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "ethoxysulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ethoxysulfuron",
+    "hi": "Ethoxysulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "etofenprox": {
+   "aliases": [],
+   "auto": true,
+   "id": "etofenprox",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Etofenprox",
+    "hi": "Etofenprox"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "etoxazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "etoxazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Etoxazole",
+    "hi": "Etoxazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "famoxadone": {
+   "aliases": [],
+   "auto": true,
+   "id": "famoxadone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Famoxadone",
+    "hi": "Famoxadone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenamidone": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenamidone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenamidone",
+    "hi": "Fenamidone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenamiphos": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenamiphos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenamiphos",
+    "hi": "Fenamiphos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenazaquin": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenazaquin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenazaquin",
+    "hi": "Fenazaquin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenbuconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenbuconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenbuconazole",
+    "hi": "Fenbuconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenbutatin_oxide": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenbutatin_oxide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenbutatin oxide",
+    "hi": "Fenbutatin oxide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenchlorphos": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenchlorphos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenchlorphos",
+    "hi": "Fenchlorphos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenhexamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenhexamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenhexamid",
+    "hi": "Fenhexamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenoxycarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenoxycarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenoxycarb",
+    "hi": "Fenoxycarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenpicoxamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenpicoxamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenpicoxamid",
+    "hi": "Fenpicoxamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenpropathrin": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenpropathrin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenpropathrin",
+    "hi": "Fenpropathrin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenpropidin": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenpropidin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenpropidin",
+    "hi": "Fenpropidin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenpropimorph": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenpropimorph",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenpropimorph",
+    "hi": "Fenpropimorph"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenpyrazamine": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenpyrazamine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenpyrazamine",
+    "hi": "Fenpyrazamine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenpyroximate": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenpyroximate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenpyroximate",
+    "hi": "Fenpyroximate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fenthion": {
+   "aliases": [],
+   "auto": true,
+   "id": "fenthion",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fenthion",
+    "hi": "Fenthion"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flazasulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "flazasulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flazasulfuron",
+    "hi": "Flazasulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "florasulam": {
+   "aliases": [],
+   "auto": true,
+   "id": "florasulam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Florasulam",
+    "hi": "Florasulam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fluazifop_p": {
+   "aliases": [],
+   "auto": true,
+   "id": "fluazifop_p",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fluazifop-p",
+    "hi": "Fluazifop-p"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flucycloxuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "flucycloxuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flucycloxuron",
+    "hi": "Flucycloxuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flucythrinate": {
+   "aliases": [],
+   "auto": true,
+   "id": "flucythrinate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flucythrinate",
+    "hi": "Flucythrinate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fludioxonil": {
+   "aliases": [],
+   "auto": true,
+   "id": "fludioxonil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fludioxonil",
+    "hi": "Fludioxonil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flufenoxuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "flufenoxuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flufenoxuron",
+    "hi": "Flufenoxuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flumetralin": {
+   "aliases": [],
+   "auto": true,
+   "id": "flumetralin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flumetralin",
+    "hi": "Flumetralin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fluopicolide": {
+   "aliases": [],
+   "auto": true,
+   "id": "fluopicolide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fluopicolide",
+    "hi": "Fluopicolide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fluoroglycofen": {
+   "aliases": [],
+   "auto": true,
+   "id": "fluoroglycofen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fluoroglycofen",
+    "hi": "Fluoroglycofen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fluoxastrobin": {
+   "aliases": [],
+   "auto": true,
+   "id": "fluoxastrobin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fluoxastrobin",
+    "hi": "Fluoxastrobin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flupyradifurone": {
+   "aliases": [],
+   "auto": true,
+   "id": "flupyradifurone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flupyradifurone",
+    "hi": "Flupyradifurone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fluquinconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "fluquinconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fluquinconazole",
+    "hi": "Fluquinconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flurochloridone": {
+   "aliases": [],
+   "auto": true,
+   "id": "flurochloridone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flurochloridone",
+    "hi": "Flurochloridone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fluroxypyr": {
+   "aliases": [],
+   "auto": true,
+   "id": "fluroxypyr",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fluroxypyr",
+    "hi": "Fluroxypyr"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flurtamone": {
+   "aliases": [],
+   "auto": true,
+   "id": "flurtamone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flurtamone",
+    "hi": "Flurtamone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flusilazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "flusilazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flusilazole",
+    "hi": "Flusilazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "flutianil": {
+   "aliases": [],
+   "auto": true,
+   "id": "flutianil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Flutianil",
+    "hi": "Flutianil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fluvalinate": {
+   "aliases": [],
+   "auto": true,
+   "id": "fluvalinate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fluvalinate",
+    "hi": "Fluvalinate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fomesafen": {
+   "aliases": [],
+   "auto": true,
+   "id": "fomesafen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fomesafen",
+    "hi": "Fomesafen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "foramsulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "foramsulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Foramsulfuron",
+    "hi": "Foramsulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "formetanate": {
+   "aliases": [],
+   "auto": true,
+   "id": "formetanate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Formetanate",
+    "hi": "Formetanate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "formothion": {
+   "aliases": [],
+   "auto": true,
+   "id": "formothion",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Formothion",
+    "hi": "Formothion"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "fuberidazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "fuberidazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Fuberidazole",
+    "hi": "Fuberidazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "halosulfuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "halosulfuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Halosulfuron-methyl",
+    "hi": "Halosulfuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "haloxyfop": {
+   "aliases": [],
+   "auto": true,
+   "id": "haloxyfop",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Haloxyfop",
+    "hi": "Haloxyfop"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "heptachlor": {
+   "aliases": [],
+   "auto": true,
+   "id": "heptachlor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Heptachlor",
+    "hi": "Heptachlor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "hexachlorobenzene": {
+   "aliases": [],
+   "auto": true,
+   "id": "hexachlorobenzene",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Hexachlorobenzene",
+    "hi": "Hexachlorobenzene"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "hexachlorocyclohexane_alpha": {
+   "aliases": [],
+   "auto": true,
+   "id": "hexachlorocyclohexane_alpha",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Hexachlorocyclohexane alpha",
+    "hi": "Hexachlorocyclohexane alpha"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "hexachlorocyclohexane_beta": {
+   "aliases": [],
+   "auto": true,
+   "id": "hexachlorocyclohexane_beta",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Hexachlorocyclohexane beta",
+    "hi": "Hexachlorocyclohexane beta"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "hexaconazole": {
+   "aliases": [],
+   "id": "hexaconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Hexaconazole",
+    "hi": "हेक्साकोनाज़ोल"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "hexythiazox": {
+   "aliases": [],
+   "auto": true,
+   "id": "hexythiazox",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Hexythiazox",
+    "hi": "Hexythiazox"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "imazalil": {
+   "aliases": [],
+   "auto": true,
+   "id": "imazalil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Imazalil",
+    "hi": "Imazalil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "imazaquin": {
+   "aliases": [],
+   "auto": true,
+   "id": "imazaquin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Imazaquin",
+    "hi": "Imazaquin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "imazosulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "imazosulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Imazosulfuron",
+    "hi": "Imazosulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "imidacloprid": {
+   "aliases": [],
+   "id": "imidacloprid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 0.05,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Imidacloprid",
+    "hi": "इमिडाक्लोप्रिड"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "indoxacarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "indoxacarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Indoxacarb",
+    "hi": "Indoxacarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "iodosulfuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "iodosulfuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Iodosulfuron-methyl",
+    "hi": "Iodosulfuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ioxynil": {
+   "aliases": [],
+   "auto": true,
+   "id": "ioxynil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ioxynil",
+    "hi": "Ioxynil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ipconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "ipconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ipconazole",
+    "hi": "Ipconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "iprodione": {
+   "aliases": [],
+   "auto": true,
+   "id": "iprodione",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Iprodione",
+    "hi": "Iprodione"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "iprovalicarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "iprovalicarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Iprovalicarb",
+    "hi": "Iprovalicarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "isofetamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "isofetamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Isofetamid",
+    "hi": "Isofetamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "isoproturon": {
+   "aliases": [],
+   "auto": true,
+   "id": "isoproturon",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Isoproturon",
+    "hi": "Isoproturon"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "isopyrazam": {
+   "aliases": [],
+   "auto": true,
+   "id": "isopyrazam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Isopyrazam",
+    "hi": "Isopyrazam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "isoxaben": {
+   "aliases": [],
+   "auto": true,
+   "id": "isoxaben",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Isoxaben",
+    "hi": "Isoxaben"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "kresoxim_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "kresoxim_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Kresoxim-methyl",
+    "hi": "Kresoxim-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "lactofen": {
+   "aliases": [],
+   "auto": true,
+   "id": "lactofen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Lactofen",
+    "hi": "Lactofen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "lindane": {
+   "aliases": [],
+   "auto": true,
+   "id": "lindane",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Lindane",
+    "hi": "Lindane"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "linuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "linuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Linuron",
+    "hi": "Linuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "lufenuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "lufenuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Lufenuron",
+    "hi": "Lufenuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mandestrobin": {
+   "aliases": [],
+   "auto": true,
+   "id": "mandestrobin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mandestrobin",
+    "hi": "Mandestrobin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mandipropamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "mandipropamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mandipropamid",
+    "hi": "Mandipropamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mecarbam": {
+   "aliases": [],
+   "auto": true,
+   "id": "mecarbam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mecarbam",
+    "hi": "Mecarbam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mefentrifluconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "mefentrifluconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mefentrifluconazole",
+    "hi": "Mefentrifluconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mepanipyrim": {
+   "aliases": [],
+   "auto": true,
+   "id": "mepanipyrim",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mepanipyrim",
+    "hi": "Mepanipyrim"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mepronil": {
+   "aliases": [],
+   "auto": true,
+   "id": "mepronil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mepronil",
+    "hi": "Mepronil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "meptyldinocap": {
+   "aliases": [],
+   "auto": true,
+   "id": "meptyldinocap",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Meptyldinocap",
+    "hi": "Meptyldinocap"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mercury_compounds": {
+   "aliases": [],
+   "auto": true,
+   "id": "mercury_compounds",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mercury compounds",
+    "hi": "Mercury compounds"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mesosulfuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "mesosulfuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mesosulfuron-methyl",
+    "hi": "Mesosulfuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mesotrione": {
+   "aliases": [],
+   "auto": true,
+   "id": "mesotrione",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mesotrione",
+    "hi": "Mesotrione"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "metalaxyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "metalaxyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Metalaxyl",
+    "hi": "Metalaxyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "metamitron": {
+   "aliases": [],
+   "auto": true,
+   "id": "metamitron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Metamitron",
+    "hi": "Metamitron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "methabenzthiazuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "methabenzthiazuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Methabenzthiazuron",
+    "hi": "Methabenzthiazuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "methacrifos": {
+   "aliases": [],
+   "auto": true,
+   "id": "methacrifos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Methacrifos",
+    "hi": "Methacrifos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "methamidophos": {
+   "aliases": [],
+   "id": "methamidophos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Methamidophos",
+    "hi": "मेथामिडोफॉस"
+   },
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "methomyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "methomyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Methomyl",
+    "hi": "Methomyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "methoxychlor": {
+   "aliases": [],
+   "auto": true,
+   "id": "methoxychlor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Methoxychlor",
+    "hi": "Methoxychlor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "methoxyfenozide": {
+   "aliases": [],
+   "auto": true,
+   "id": "methoxyfenozide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Methoxyfenozide",
+    "hi": "Methoxyfenozide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "methylisothiocyanate": {
+   "aliases": [],
+   "auto": true,
+   "id": "methylisothiocyanate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Methylisothiocyanate",
+    "hi": "Methylisothiocyanate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "metosulam": {
+   "aliases": [],
+   "auto": true,
+   "id": "metosulam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Metosulam",
+    "hi": "Metosulam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "metrafenone": {
+   "aliases": [],
+   "auto": true,
+   "id": "metrafenone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Metrafenone",
+    "hi": "Metrafenone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "metsulfuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "metsulfuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Metsulfuron-methyl",
+    "hi": "Metsulfuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "mevinphos": {
+   "aliases": [],
+   "auto": true,
+   "id": "mevinphos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Mevinphos",
+    "hi": "Mevinphos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "molinate": {
+   "aliases": [],
+   "auto": true,
+   "id": "molinate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Molinate",
+    "hi": "Molinate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "monolinuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "monolinuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Monolinuron",
+    "hi": "Monolinuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "monuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "monuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Monuron",
+    "hi": "Monuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "myclobutanil": {
+   "aliases": [],
+   "auto": true,
+   "id": "myclobutanil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Myclobutanil",
+    "hi": "Myclobutanil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "napropamide": {
+   "aliases": [],
+   "auto": true,
+   "id": "napropamide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Napropamide",
+    "hi": "Napropamide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "nicosulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "nicosulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Nicosulfuron",
+    "hi": "Nicosulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "nitrofen": {
+   "aliases": [],
+   "auto": true,
+   "id": "nitrofen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Nitrofen",
+    "hi": "Nitrofen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "novaluron": {
+   "aliases": [],
+   "auto": true,
+   "id": "novaluron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Novaluron",
+    "hi": "Novaluron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "ochratoxin_a": {
+   "aliases": [
+    "ochratoxin",
+    "ota"
+   ],
+   "id": "ochratoxin_a",
+   "kind": "mycotoxin",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 3.0,
+     "sources": [
+      "reg_2023_915"
+     ]
+    }
+   },
+   "names": {
+    "en": "Ochratoxin A",
+    "hi": "ओक्राटॉक्सिन A"
+   },
+   "tier": "should",
+   "unit": "ug/kg"
+  },
+  "omethoate": {
+   "aliases": [],
+   "auto": true,
+   "id": "omethoate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Omethoate",
+    "hi": "Omethoate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "orthosulfamuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "orthosulfamuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Orthosulfamuron",
+    "hi": "Orthosulfamuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oryzalin": {
+   "aliases": [],
+   "auto": true,
+   "id": "oryzalin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oryzalin",
+    "hi": "Oryzalin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxadiargyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxadiargyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxadiargyl",
+    "hi": "Oxadiargyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxadiazon": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxadiazon",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxadiazon",
+    "hi": "Oxadiazon"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxadixyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxadixyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxadixyl",
+    "hi": "Oxadixyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxasulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxasulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxasulfuron",
+    "hi": "Oxasulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxathiapiprolin": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxathiapiprolin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxathiapiprolin",
+    "hi": "Oxathiapiprolin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxycarboxin": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxycarboxin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxycarboxin",
+    "hi": "Oxycarboxin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxydemeton_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxydemeton_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxydemeton-methyl",
+    "hi": "Oxydemeton-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "oxyfluorfen": {
+   "aliases": [],
+   "auto": true,
+   "id": "oxyfluorfen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Oxyfluorfen",
+    "hi": "Oxyfluorfen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "paclobutrazol": {
+   "aliases": [],
+   "auto": true,
+   "id": "paclobutrazol",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Paclobutrazol",
+    "hi": "Paclobutrazol"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "paraffin_oil": {
+   "aliases": [],
+   "auto": true,
+   "id": "paraffin_oil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Paraffin oil",
+    "hi": "Paraffin oil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "penconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "penconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Penconazole",
+    "hi": "Penconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "penflufen": {
+   "aliases": [],
+   "auto": true,
+   "id": "penflufen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Penflufen",
+    "hi": "Penflufen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "penoxsulam": {
+   "aliases": [],
+   "auto": true,
+   "id": "penoxsulam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Penoxsulam",
+    "hi": "Penoxsulam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "penthiopyrad": {
+   "aliases": [],
+   "auto": true,
+   "id": "penthiopyrad",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Penthiopyrad",
+    "hi": "Penthiopyrad"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "pethoxamid": {
+   "aliases": [],
+   "auto": true,
+   "id": "pethoxamid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Pethoxamid",
+    "hi": "Pethoxamid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "petroleum_oils": {
+   "aliases": [],
+   "auto": true,
+   "id": "petroleum_oils",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Petroleum oils",
+    "hi": "Petroleum oils"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "phenmedipham": {
+   "aliases": [],
+   "auto": true,
+   "id": "phenmedipham",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Phenmedipham",
+    "hi": "Phenmedipham"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "phosalone": {
+   "aliases": [],
+   "auto": true,
+   "id": "phosalone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Phosalone",
+    "hi": "Phosalone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "phosmet": {
+   "aliases": [],
+   "auto": true,
+   "id": "phosmet",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Phosmet",
+    "hi": "Phosmet"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "phosphamidon": {
+   "aliases": [],
+   "auto": true,
+   "id": "phosphamidon",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Phosphamidon",
+    "hi": "Phosphamidon"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "phoxim": {
+   "aliases": [],
+   "auto": true,
+   "id": "phoxim",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Phoxim",
+    "hi": "Phoxim"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "picloram": {
+   "aliases": [],
+   "auto": true,
+   "id": "picloram",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Picloram",
+    "hi": "Picloram"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "picoxystrobin": {
+   "aliases": [],
+   "auto": true,
+   "id": "picoxystrobin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Picoxystrobin",
+    "hi": "Picoxystrobin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "procymidone": {
+   "aliases": [],
+   "auto": true,
+   "id": "procymidone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Procymidone",
+    "hi": "Procymidone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "profenofos": {
+   "aliases": [
+    "profenophos"
+   ],
+   "id": "profenofos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Profenofos",
+    "hi": "प्रोफेनोफॉस"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "profoxydim": {
+   "aliases": [],
+   "auto": true,
+   "id": "profoxydim",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Profoxydim",
+    "hi": "Profoxydim"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "propamocarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "propamocarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Propamocarb",
+    "hi": "Propamocarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "propanil": {
+   "aliases": [],
+   "auto": true,
+   "id": "propanil",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Propanil",
+    "hi": "Propanil"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "propargite": {
+   "aliases": [],
+   "auto": true,
+   "id": "propargite",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Propargite",
+    "hi": "Propargite"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "propham": {
+   "aliases": [],
+   "auto": true,
+   "id": "propham",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Propham",
+    "hi": "Propham"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "propiconazole": {
+   "aliases": [],
+   "id": "propiconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 0.05,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Propiconazole",
+    "hi": "प्रोपिकोनाज़ोल"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "propisochlor": {
+   "aliases": [],
+   "auto": true,
+   "id": "propisochlor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Propisochlor",
+    "hi": "Propisochlor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "propyzamide": {
+   "aliases": [],
+   "auto": true,
+   "id": "propyzamide",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Propyzamide",
+    "hi": "Propyzamide"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "proquinazid": {
+   "aliases": [],
+   "auto": true,
+   "id": "proquinazid",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Proquinazid",
+    "hi": "Proquinazid"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "prosulfocarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "prosulfocarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Prosulfocarb",
+    "hi": "Prosulfocarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "prosulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "prosulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Prosulfuron",
+    "hi": "Prosulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "prothioconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "prothioconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Prothioconazole",
+    "hi": "Prothioconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "pyrazophos": {
+   "aliases": [],
+   "auto": true,
+   "id": "pyrazophos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Pyrazophos",
+    "hi": "Pyrazophos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "pyridaben": {
+   "aliases": [],
+   "auto": true,
+   "id": "pyridaben",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Pyridaben",
+    "hi": "Pyridaben"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "pyridalyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "pyridalyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Pyridalyl",
+    "hi": "Pyridalyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "pyriofenone": {
+   "aliases": [],
+   "auto": true,
+   "id": "pyriofenone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Pyriofenone",
+    "hi": "Pyriofenone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "pyriproxyfen": {
+   "aliases": [],
+   "auto": true,
+   "id": "pyriproxyfen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Pyriproxyfen",
+    "hi": "Pyriproxyfen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "pyroxsulam": {
+   "aliases": [],
+   "auto": true,
+   "id": "pyroxsulam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Pyroxsulam",
+    "hi": "Pyroxsulam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "quinalphos": {
+   "aliases": [],
+   "auto": true,
+   "id": "quinalphos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Quinalphos",
+    "hi": "Quinalphos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "rimsulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "rimsulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Rimsulfuron",
+    "hi": "Rimsulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "rotenone": {
+   "aliases": [],
+   "auto": true,
+   "id": "rotenone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Rotenone",
+    "hi": "Rotenone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "sedaxane": {
+   "aliases": [],
+   "auto": true,
+   "id": "sedaxane",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Sedaxane",
+    "hi": "Sedaxane"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "silthiofam": {
+   "aliases": [],
+   "auto": true,
+   "id": "silthiofam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Silthiofam",
+    "hi": "Silthiofam"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "simazine": {
+   "aliases": [],
+   "auto": true,
+   "id": "simazine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Simazine",
+    "hi": "Simazine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "sintofen": {
+   "aliases": [],
+   "auto": true,
+   "id": "sintofen",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Sintofen",
+    "hi": "Sintofen"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "spiroxamine": {
+   "aliases": [],
+   "auto": true,
+   "id": "spiroxamine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Spiroxamine",
+    "hi": "Spiroxamine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "sulfoxaflor": {
+   "aliases": [],
+   "auto": true,
+   "id": "sulfoxaflor",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Sulfoxaflor",
+    "hi": "Sulfoxaflor"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "sulfuryl_fluoride": {
+   "aliases": [],
+   "auto": true,
+   "id": "sulfuryl_fluoride",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Sulfuryl fluoride",
+    "hi": "Sulfuryl fluoride"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tebuconazole": {
+   "aliases": [],
+   "id": "tebuconazole",
+   "kind": "pesticide",
+   "limits": {},
+   "names": {
+    "en": "Tebuconazole",
+    "hi": "टेबुकोनाज़ोल"
+   },
+   "punjab_2025": true,
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tebufenpyrad": {
+   "aliases": [],
+   "auto": true,
+   "id": "tebufenpyrad",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tebufenpyrad",
+    "hi": "Tebufenpyrad"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tecnazene": {
+   "aliases": [],
+   "auto": true,
+   "id": "tecnazene",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tecnazene",
+    "hi": "Tecnazene"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "teflubenzuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "teflubenzuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Teflubenzuron",
+    "hi": "Teflubenzuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tefluthrin": {
+   "aliases": [],
+   "auto": true,
+   "id": "tefluthrin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tefluthrin",
+    "hi": "Tefluthrin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tepp": {
+   "aliases": [],
+   "auto": true,
+   "id": "tepp",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tepp",
+    "hi": "Tepp"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "terbufos": {
+   "aliases": [],
+   "auto": true,
+   "id": "terbufos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Terbufos",
+    "hi": "Terbufos"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "terbuthylazine": {
+   "aliases": [],
+   "auto": true,
+   "id": "terbuthylazine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Terbuthylazine",
+    "hi": "Terbuthylazine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tetraconazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "tetraconazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tetraconazole",
+    "hi": "Tetraconazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tetradifon": {
+   "aliases": [],
+   "auto": true,
+   "id": "tetradifon",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tetradifon",
+    "hi": "Tetradifon"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "thiabendazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "thiabendazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thiabendazole",
+    "hi": "Thiabendazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "thiamethoxam": {
+   "aliases": [
+    "thiamethoxan",
+    "tmx"
+   ],
+   "id": "thiamethoxam",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024",
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 0.02,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thiamethoxam",
+    "hi": "थायामेथोक्सम"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "thiencarbazone_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "thiencarbazone_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thiencarbazone-methyl",
+    "hi": "Thiencarbazone-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "thifensulfuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "thifensulfuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thifensulfuron-methyl",
+    "hi": "Thifensulfuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "thifluzamide": {
+   "aliases": [],
+   "id": "thifluzamide",
+   "kind": "pesticide",
+   "limits": {
+    "IN": {
+     "basis": "reported",
+     "limit": 0.05,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thifluzamide",
+    "hi": "थिफ्लुज़ामाइड"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "thiobencarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "thiobencarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thiobencarb",
+    "hi": "Thiobencarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "thiodicarb": {
+   "aliases": [],
+   "auto": true,
+   "id": "thiodicarb",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thiodicarb",
+    "hi": "Thiodicarb"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "thiophanate_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "thiophanate_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Thiophanate-methyl",
+    "hi": "Thiophanate-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tolclofos_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "tolclofos_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tolclofos-methyl",
+    "hi": "Tolclofos-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "topramezone": {
+   "aliases": [],
+   "auto": true,
+   "id": "topramezone",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Topramezone",
+    "hi": "Topramezone"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tralkoxydim": {
+   "aliases": [],
+   "auto": true,
+   "id": "tralkoxydim",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tralkoxydim",
+    "hi": "Tralkoxydim"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triadimefon": {
+   "aliases": [],
+   "auto": true,
+   "id": "triadimefon",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triadimefon",
+    "hi": "Triadimefon"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triadimenol": {
+   "aliases": [],
+   "auto": true,
+   "id": "triadimenol",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triadimenol",
+    "hi": "Triadimenol"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triasulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "triasulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triasulfuron",
+    "hi": "Triasulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triazophos": {
+   "aliases": [],
+   "id": "triazophos",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.02,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 0.6,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triazophos",
+    "hi": "ट्राइएज़ोफॉस"
+   },
+   "tier": "should",
+   "unit": "mg/kg"
+  },
+  "tribenuron_methyl": {
+   "aliases": [],
+   "auto": true,
+   "id": "tribenuron_methyl",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tribenuron-methyl",
+    "hi": "Tribenuron-methyl"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "trichlorfon": {
+   "aliases": [],
+   "auto": true,
+   "id": "trichlorfon",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Trichlorfon",
+    "hi": "Trichlorfon"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tricyclazole": {
+   "aliases": [
+    "tricyclazol",
+    "tcz"
+   ],
+   "id": "tricyclazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "reg_2017_983",
+      "ls_1314_2024"
+     ]
+    },
+    "IN": {
+     "basis": "reported",
+     "limit": 3.0,
+     "sources": [
+      "ls_2057_2025"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tricyclazole",
+    "hi": "ट्राइसाइक्लाज़ोल"
+   },
+   "punjab_2025": true,
+   "tier": "must",
+   "unit": "mg/kg"
+  },
+  "tridemorph": {
+   "aliases": [],
+   "auto": true,
+   "id": "tridemorph",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tridemorph",
+    "hi": "Tridemorph"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triflumezopyrim": {
+   "aliases": [],
+   "auto": true,
+   "id": "triflumezopyrim",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triflumezopyrim",
+    "hi": "Triflumezopyrim"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triflumuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "triflumuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triflumuron",
+    "hi": "Triflumuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "trifluralin": {
+   "aliases": [],
+   "auto": true,
+   "id": "trifluralin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Trifluralin",
+    "hi": "Trifluralin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triflusulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "triflusulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triflusulfuron",
+    "hi": "Triflusulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triforine": {
+   "aliases": [],
+   "auto": true,
+   "id": "triforine",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triforine",
+    "hi": "Triforine"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "triticonazole": {
+   "aliases": [],
+   "auto": true,
+   "id": "triticonazole",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Triticonazole",
+    "hi": "Triticonazole"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "tritosulfuron": {
+   "aliases": [],
+   "auto": true,
+   "id": "tritosulfuron",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Tritosulfuron",
+    "hi": "Tritosulfuron"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "valifenalate": {
+   "aliases": [],
+   "auto": true,
+   "id": "valifenalate",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Valifenalate",
+    "hi": "Valifenalate"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "vinclozolin": {
+   "aliases": [],
+   "auto": true,
+   "id": "vinclozolin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Vinclozolin",
+    "hi": "Vinclozolin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  },
+  "warfarin": {
+   "aliases": [],
+   "auto": true,
+   "id": "warfarin",
+   "kind": "pesticide",
+   "limits": {
+    "EU": {
+     "basis": "law",
+     "limit": 0.01,
+     "sources": [
+      "ls_1314_2024"
+     ]
+    }
+   },
+   "names": {
+    "en": "Warfarin",
+    "hi": "Warfarin"
+   },
+   "tier": "watch",
+   "unit": "mg/kg"
+  }
+ },
+ "countries": {
+  "AT": {
+   "en": "Austria",
+   "hi": "ऑस्ट्रिया"
+  },
+  "BE": {
+   "en": "Belgium",
+   "hi": "बेल्जियम"
+  },
+  "BG": {
+   "en": "Bulgaria",
+   "hi": "बुल्गारिया"
+  },
+  "CY": {
+   "en": "Cyprus",
+   "hi": "साइप्रस"
+  },
+  "CZ": {
+   "en": "Czechia",
+   "hi": "चेकिया"
+  },
+  "DE": {
+   "en": "Germany",
+   "hi": "जर्मनी"
+  },
+  "DK": {
+   "en": "Denmark",
+   "hi": "डेनमार्क"
+  },
+  "EE": {
+   "en": "Estonia",
+   "hi": "एस्टोनिया"
+  },
+  "ES": {
+   "en": "Spain",
+   "hi": "स्पेन"
+  },
+  "FI": {
+   "en": "Finland",
+   "hi": "फ़िनलैंड"
+  },
+  "FR": {
+   "en": "France",
+   "hi": "फ़्रांस"
+  },
+  "GR": {
+   "en": "Greece",
+   "hi": "यूनान"
+  },
+  "HR": {
+   "en": "Croatia",
+   "hi": "क्रोएशिया"
+  },
+  "HU": {
+   "en": "Hungary",
+   "hi": "हंगरी"
+  },
+  "IE": {
+   "en": "Ireland",
+   "hi": "आयरलैंड"
+  },
+  "IT": {
+   "en": "Italy",
+   "hi": "इटली"
+  },
+  "LT": {
+   "en": "Lithuania",
+   "hi": "लिथुआनिया"
+  },
+  "LU": {
+   "en": "Luxembourg",
+   "hi": "लक्ज़मबर्ग"
+  },
+  "LV": {
+   "en": "Latvia",
+   "hi": "लातविया"
+  },
+  "MT": {
+   "en": "Malta",
+   "hi": "माल्टा"
+  },
+  "NL": {
+   "en": "Netherlands",
+   "hi": "नीदरलैंड"
+  },
+  "PL": {
+   "en": "Poland",
+   "hi": "पोलैंड"
+  },
+  "PT": {
+   "en": "Portugal",
+   "hi": "पुर्तगाल"
+  },
+  "RO": {
+   "en": "Romania",
+   "hi": "रोमानिया"
+  },
+  "SE": {
+   "en": "Sweden",
+   "hi": "स्वीडन"
+  },
+  "SI": {
+   "en": "Slovenia",
+   "hi": "स्लोवेनिया"
+  },
+  "SK": {
+   "en": "Slovakia",
+   "hi": "स्लोवाकिया"
+  }
+ },
+ "i18n": {
+  "en": {
+   "a": {
+    "get_doc": "Obtain: {doc} (from {issuer}).",
+    "get_report": "Get a pesticide, mycotoxin and metals report from an accredited lab, on a representative sample.",
+    "hold": "Do not ship this lot to the EU as it is. Options: confirm on a fresh, properly drawn sample at a second accredited lab (only to rule out lab or sampling error), or divert it to a market whose limits it meets. Never blend.",
+    "lab_fix_accredited": "Use a lab accredited to ISO/IEC 17025 (NABL) for these parameters.",
+    "lab_fix_date": "Add the report date, and check it against the shipment date.",
+    "lab_fix_fresh": "Re-test close to shipment, or get the buyer's written acceptance of the older report.",
+    "lab_fix_linked": "Have the lab quote your lot or batch ID on the report.",
+    "lab_fix_sampling": "Use an inspection agency or the lab's own sampler for a representative sample.",
+    "lab_fix_unit": "Re-enter the result with a unit: mg/kg, ppm, µg/kg or ppb.",
+    "lookup_test": "Look up the EU limit for {analyte} in rice, then test for it.",
+    "lower_loq": "Re-test at an accredited lab with a detection limit of {limit} {unit} or lower, then attach the new certificate.",
+    "retest": "Re-test {analyte} on a fresh sample at a second accredited lab. Check sampling and homogenisation.",
+    "screen": "Ask for a multi-residue screen (GC-MS/MS + LC-MS/MS) with LOQ ≤ 0.01 mg/kg.",
+    "speciation": "Order inorganic arsenic (speciation), LOQ ≤ {limit} {unit}.",
+    "test": "Test {analyte} at LOQ ≤ {limit} {unit}.",
+    "verify_mrl": "Check {analyte} for rice in the EU Pesticides Database."
+   },
+   "basis": {
+    "guidance": "OFFICIAL GUIDANCE",
+    "law": "LAW",
+    "practice": "PRACTICE"
+   },
+   "basis_help": {
+    "guidance": "Official guidance or an accepted method. Can cause FIX FIRST.",
+    "law": "A binding EU or Indian rule. Only this can cause HOLD.",
+    "practice": "Buyer or industry practice. Can cause FIX FIRST, never HOLD."
+   },
+   "docs": {
+    "ched_d": {
+     "issuer": "your EU importer",
+     "name": "CHED-D pre-notification (importer's TRACES entry)"
+    },
+    "coi": {
+     "issuer": "EIC / EIA (Export Inspection Agency)",
+     "name": "Certificate of Inspection for EU export"
+    },
+    "iec": {
+     "issuer": "DGFT",
+     "name": "Import Export Code (IEC)"
+    },
+    "invoice_pl": {
+     "issuer": "your office or CHA",
+     "name": "Commercial invoice and packing list"
+    },
+    "phyto": {
+     "issuer": "Plant Quarantine (DPPQS)",
+     "name": "Phytosanitary certificate"
+    },
+    "rcac": {
+     "issuer": "APEDA",
+     "name": "APEDA Registration-cum-Allocation Certificate (RCAC) for this export contract"
+    }
+   },
+   "gates": {
+    "border": "EU border",
+    "farm": "Farm",
+    "lab": "Lab",
+    "papers": "Papers"
+   },
+   "m": {
+    "as_total_ok": "{analyte}: {value} {unit}. Even if all of it were inorganic, it is within {limit} {unit}.",
+    "as_total_speciation": "{analyte}: {value} {unit} is above the {limit} {unit} limit for inorganic arsenic. The EU limit covers the inorganic part only, so ask for arsenic speciation before deciding.",
+    "covered_by_screen": "{analyte}: covered by the multi-residue screen on this report.",
+    "doc_missing": "{doc}: missing. Get it from {issuer}.",
+    "doc_ok": "{doc}: in hand.",
+    "doc_unconfirmed": "{doc}: not confirmed. Get it from {issuer} and tick it once you hold it.",
+    "lab_accreditation_unknown": "Accreditation not confirmed. Check that the lab's ISO/IEC 17025 (NABL) scope covers pesticides, mycotoxins and metals.",
+    "lab_accredited": "The lab is accredited (ISO/IEC 17025) for these tests.",
+    "lab_date_invalid": "The report date is after the shipment date. Check both dates.",
+    "lab_date_missing": "Report date is missing.",
+    "lab_fresh": "The report is {age} days old at shipment (limit {max}).",
+    "lab_link_unknown": "Not confirmed that the report is tied to this lot or batch.",
+    "lab_linked": "The report names this lot or batch.",
+    "lab_missing": "No lab result yet. Border labs check about {pct}% of Indian rice consignments for pesticide residues. Know your result before they do.",
+    "lab_not_accredited": "The lab is not accredited for these tests. Use an ISO/IEC 17025 (NABL) lab whose scope covers them.",
+    "lab_stale": "The report is {age} days old at shipment; the limit is {max}. Re-test, or get the buyer's written acceptance.",
+    "lab_unlinked": "The report does not name this lot or batch, so it cannot vouch for it. Ask the lab to quote your lot ID.",
+    "limit_close": "{analyte}: {value} {unit} is {pct}% of the EU limit ({limit} {unit}). Normal lab variation can push it over at the border.",
+    "limit_exceeded": "{analyte}: {value} {unit} is above the EU limit of {limit} {unit} (×{ratio}).",
+    "limit_ok": "{analyte}: {value} {unit} is within the EU limit ({limit} {unit}).",
+    "loq_missing": "{analyte}: reported as not detected, but no LOQ is stated. Without it, compliance with {limit} {unit} cannot be shown.",
+    "loq_too_high": "{analyte}: your lab tests only down to {loq} {unit}; the EU limit is {limit} {unit}. Compliance cannot be shown.",
+    "market_not_covered": "Destination {dest} is not covered yet. This rules pack covers basmati rice into the EU only, so no limits were checked.",
+    "market_partial": "Document and border-regime checks for {market} are not in the rules pack yet. Only limits were checked.",
+    "mu_note": "Official labs subtract a default {mu}% measurement uncertainty before calling a result non-compliant, so a small exceedance may not be formally non-compliant. Do not rely on that: exceeding an MRL is still treated as a serious risk and notified.",
+    "nd_ok": "{analyte}: not detected (LOQ {loq} {unit}), below the EU limit of {limit} {unit}.",
+    "no_blending": "Do not blend this lot into compliant rice to dilute it. EU contaminant rules forbid mixing compliant food with food above the limits, and a blended lot can still fail at the border.",
+    "regime_checks": "At the EU border about {pct}% of Indian rice consignments go through identity and physical checks, with lab sampling for pesticide residues. The list is reviewed at least every six months.",
+    "required_missing_default": "{analyte}: no result on file. No specific EU limit is stored here; unless one exists for rice, {limit} {unit} applies. Test it at LOQ ≤ {limit} {unit}.",
+    "required_missing_signal": "{analyte}: no result on file. The EU limit is {limit} {unit} and it has a record of border alerts on Indian rice. Test it at LOQ ≤ {limit} {unit}.",
+    "required_missing_sprayed": "{analyte}: you sprayed it, but there is no result. The EU limit is {limit} {unit}. Test it at LOQ ≤ {limit} {unit} before shipping.",
+    "sampling_ok": "The sample was drawn by the lab or an independent party.",
+    "sampling_self": "You drew the sample yourself. Border labs expect a sample representative of the whole lot; use an inspection agency or the lab's own sampler.",
+    "sampling_unknown": "Who drew the sample is not stated.",
+    "screen_missing": "No multi-residue screen. EU border labs test the pesticides of the EU control programme by GC-MS/MS and LC-MS/MS; a short list of compounds is not enough.",
+    "screen_ok": "The report includes a multi-residue pesticide screen (GC-MS/MS and LC-MS/MS).",
+    "should_missing": "Not reported: {list}. Lower border-alert signal for Indian basmati, but the legal limits apply. Add them if your buyer asks.",
+    "sprayed_note": "{analyte} was sprayed. EU limit for rice: {limit} {unit}.",
+    "sprayed_note_gap": "{analyte} was sprayed. India's FSSAI allows {india_limit} {unit}; the EU allows {limit} {unit}, which is {gap}× stricter. A lot can pass in India and still be refused at the EU border.",
+    "sprayed_note_gap_punjab": "{analyte} was sprayed. India's FSSAI allows {india_limit} {unit}; the EU allows {limit} {unit} ({gap}× stricter), and Punjab restricted it on basmati in 2025.",
+    "sprayed_note_nolimit": "{analyte} was sprayed. No specific EU limit is stored here; unless one exists for rice, {limit} {unit} applies. Check it and test for it.",
+    "sprayed_note_punjab": "{analyte} was sprayed. It was on Punjab's 2025 restricted list for basmati. EU limit: {limit} {unit}.",
+    "sprayed_unknown": "{analyte} is not in the rulebook. Look up its EU limit for rice; unless one exists, {limit} {unit} applies. Test for it.",
+    "unit_unknown": "{analyte}: unit \"{unit}\" is not recognised. Use mg/kg, ppm, µg/kg or ppb.",
+    "verify_mrl": "{analyte}: {value} {unit} found. No specific EU limit is stored here. If none exists for rice, the default {limit} {unit} applies. Check the EU Pesticides Database before shipping."
+   },
+   "severity": {
+    "block": "Blocks shipment",
+    "fix": "Fix first",
+    "note": "Good to know",
+    "pass": "Cleared"
+   },
+   "ui": {
+    "add": "Add",
+    "add_ph": "Add a substance",
+    "app_name": "NiryatSafe",
+    "band_a": "NO LLM IN THE DECISION PATH.",
+    "band_b": "Verdicts come only from the limits table, so every result can be traced to its source.",
+    "bars_eu": "EU limit",
+    "bars_india": "India limit",
+    "bars_loq": "Your lab tests to",
+    "bars_result": "Your result",
+    "basmati": "Basmati rice",
+    "blank": "Start blank",
+    "boundary": "NiryatSafe supports the exporter's decision. Final clearance still rests with the lab certificate and the authorities.",
+    "by": "BY GREENLIGHT",
+    "computed": "Verdict computed in {ms} ms on this device",
+    "csv_btn": "Import CSV",
+    "demo_data": "This view includes SYNTHETIC demo data.",
+    "dest_eu_any": "EU (any member state)",
+    "dest_other": "Other (not covered yet)",
+    "f_dest": "Destination",
+    "f_form": "Form of rice",
+    "f_form_hint": "Sella = parboiled rice.",
+    "f_lotid": "Lot number",
+    "f_origin": "Origin state",
+    "f_product": "Product",
+    "f_ship": "Planned ship date",
+    "f_source": "Source (mill or farmer group)",
+    "f_source_hint": "Optional. Used only for your own patterns.",
+    "f_source_ph": "e.g. Karnal mill 2",
+    "farm_gap_hint": "×N = the EU limit is N times stricter than India's (FSSAI).",
+    "farm_lead": "Tick what was sprayed on this crop. Each one becomes a required test, and the number shows how much stricter the EU is than India.",
+    "farm_other": "Other substance",
+    "foot_limits": "Not covered in v0.1: other products and markets, label checks, photo reading of lab reports. NiryatSafe is decision support, not legal advice.",
+    "foot_open": "Open source (MIT). Every rule is one row in rules/limits.csv; a new market is a pull request.",
+    "foot_rules": "Rules pack {v} · hash {h}",
+    "form_brown": "Brown",
+    "form_raw": "Raw white",
+    "form_sella": "Sella",
+    "gap_lead": "Limits for rice, mg/kg. A lot that passes India's limit can still be refused at the EU border.",
+    "gap_src": "India (FSSAI) and EU limits as quoted by the Government of India, Lok Sabha USQ 2057, 11 Mar 2025.",
+    "gap_title": "Pass India, fail the EU",
+    "hero_h1": "Will this lot clear the EU border?",
+    "hero_kicker": "BEFORE THE CONTAINER IS LOADED",
+    "hero_sub": "Enter the lot and the lab values you already have. NiryatSafe checks each one against the EU limit and returns Ship, Fix first or Hold, with the exact test or document to act on.",
+    "hist_lead": "EU border alerts on Indian rice, by pesticide and year.",
+    "hist_partial": "{y} is a partial year",
+    "hist_title": "What gets Indian rice flagged",
+    "hist_total": "{n} alerts",
+    "kicker_in_rice": "{analyte} IN RICE",
+    "lab_accred": "Lab accredited (ISO/IEC 17025)?",
+    "lab_accred_h": "Its scope should cover these tests.",
+    "lab_date": "Report date",
+    "lab_linked": "Report names this lot or batch?",
+    "lab_linked_h": "Have the lot ID quoted on the report.",
+    "lab_sampling": "Who drew the sample?",
+    "lab_screen": "Includes a multi-residue pesticide screen?",
+    "lab_screen_h": "GC-MS/MS and LC-MS/MS, LOQ 0.01 mg/kg or lower.",
+    "listen": "Listen",
+    "lot": "LOT",
+    "lot_untitled": "Untitled lot",
+    "lots_empty": "Save a lot to see patterns: which pesticide or source keeps causing trouble.",
+    "lots_local": "Saved lots stay on this device.",
+    "markond": "Mark empty pesticides ND",
+    "markond_h": "Only if your report says so. Sets ND with LOQ 0.01 mg/kg.",
+    "memo_findings": "Open points",
+    "memo_id": "Memo ID",
+    "memo_nollm": "Fixed rules, no AI in the decision.",
+    "memo_passed": "{n} checks cleared",
+    "memo_sources": "Sources",
+    "memo_title": "Pre-shipment compliance memo",
+    "more": "+{n} more below",
+    "no": "No",
+    "offline": "Offline",
+    "online": "Online",
+    "open_verdict": "Verdict",
+    "papers_importer": "importer's side",
+    "papers_none": "Document checks are not in the rules pack for this destination yet.",
+    "paste_btn": "Paste lab table",
+    "paste_go": "Read table",
+    "paste_none": "No result rows found. Each row needs a name and a value or ND.",
+    "paste_ok": "Read {n} rows, skipped {skipped} lines.",
+    "paste_ph": "Paste rows from your lab report, e.g.\nTricyclazole  <0.01  mg/kg  0.01",
+    "paste_unknown": "{n} not in the rules pack: the EU default of 0.01 mg/kg applies unless a specific limit exists.",
+    "pat_src": "Sources with most flagged lots",
+    "pat_sub": "Most flagged",
+    "path": "Path to Ship",
+    "patterns": "Patterns across your saved lots",
+    "pill_ready": "The app and rules pack are saved on this device",
+    "print": "Print memo",
+    "regime_card": "At the EU border about {pct}% of Indian rice consignments go through identity and physical checks for pesticide residues.",
+    "remove": "Remove",
+    "risk_alerts": "{n} EU alerts, last 5 yrs",
+    "risk_help": "{n} EU border alerts on Indian rice in the last five years of data",
+    "risk_high": "High risk",
+    "risk_low": "Low risk",
+    "risk_med": "Medium risk",
+    "rulebook": "Rules pack",
+    "s_evidence": "Why these checks",
+    "s_farm": "Farm and spray diary",
+    "s_lab": "Lab report",
+    "s_lot": "The lot",
+    "s_lots": "My lots",
+    "s_papers": "Papers",
+    "s_verdict": "Verdict",
+    "samp_lab": "Lab",
+    "samp_self": "Me",
+    "samp_third": "Inspector",
+    "samples": "Try a lot",
+    "save": "Save lot",
+    "share": "WhatsApp",
+    "sources_used": "Sources behind this verdict ({n})",
+    "st_nd": "ND",
+    "st_nt": "—",
+    "st_value": "#",
+    "stale": "This rules pack is {d} days old. Check for an update before relying on it.",
+    "steps": "{n} steps to Ship",
+    "steps_none": "Nothing left to fix",
+    "steps_one": "1 step to Ship",
+    "unit": "Unit",
+    "unsure": "Not sure",
+    "value": "Value",
+    "verified": "verified",
+    "verify": "Verify on server",
+    "verify_busy": "Asking the server…",
+    "verify_diff": "Server differs: {v}, memo {id}. The rules packs may be different versions.",
+    "verify_off": "Server not reachable. The verdict above still stands: it was computed on this device.",
+    "verify_ok": "Server agrees: same verdict and memo ID {id}.",
+    "works_offline": "works offline",
+    "yes": "Yes"
+   },
+   "verdict": {
+    "FIX_FIRST": "FIX FIRST",
+    "HOLD": "HOLD",
+    "SHIP": "SHIP"
+   },
+   "verdict_sub": {
+    "FIX_FIRST": "No confirmed breach, but proof is missing or too thin. Close the gaps below, then run it again.",
+    "HOLD": "A result is above a legal EU limit. Do not ship this lot to the EU as it is.",
+    "SHIP": "Everything required is evidenced and inside the EU limits."
+   }
+  },
+  "hi": {
+   "a": {
+    "get_doc": "प्राप्त करें: {doc} ({issuer} से)।",
+    "get_report": "मान्यता प्राप्त लैब से प्रतिनिधि नमूने पर कीटनाशक, माइकोटॉक्सिन और धातुओं की रिपोर्ट लें।",
+    "hold": "इस लॉट को ऐसे ही EU न भेजें। विकल्प: दूसरी मान्यता प्राप्त लैब में ताज़ा, सही ढंग से लिए नमूने पर पुष्टि (केवल लैब या नमूना-त्रुटि को परखने के लिए), या ऐसे बाज़ार में भेजें जिसकी सीमाएँ यह लॉट पूरी करता हो। कभी मिलाएँ नहीं।",
+    "lab_fix_accredited": "इन पैरामीटर के लिए ISO/IEC 17025 (NABL) मान्यता प्राप्त लैब का उपयोग करें।",
+    "lab_fix_date": "रिपोर्ट की तारीख जोड़ें और शिपमेंट की तारीख से मिलाएँ।",
+    "lab_fix_fresh": "शिपमेंट के करीब दोबारा जाँच कराएँ, या पुरानी रिपोर्ट पर खरीदार की लिखित स्वीकृति लें।",
+    "lab_fix_linked": "लैब से रिपोर्ट में अपना लॉट/बैच ID दर्ज कराएँ।",
+    "lab_fix_sampling": "प्रतिनिधि नमूने के लिए निरीक्षण एजेंसी या लैब के अपने सैंपलर का उपयोग करें।",
+    "lab_fix_unit": "परिणाम इकाई के साथ दोबारा दर्ज करें: mg/kg, ppm, µg/kg या ppb।",
+    "lookup_test": "चावल में {analyte} की EU सीमा देखें, फिर उसकी जाँच कराएँ।",
+    "lower_loq": "मान्यता प्राप्त लैब में {limit} {unit} या उससे कम की डिटेक्शन लिमिट पर दोबारा जाँच कराएँ, फिर नया प्रमाणपत्र संलग्न करें।",
+    "retest": "{analyte} की जाँच दूसरी मान्यता प्राप्त लैब में ताज़ा नमूने पर दोहराएँ। नमूना लेने और मिलाने का तरीका जाँचें।",
+    "screen": "LOQ ≤ 0.01 mg/kg के साथ मल्टी-रेज़िड्यू स्क्रीन (GC-MS/MS + LC-MS/MS) माँगें।",
+    "speciation": "अकार्बनिक आर्सेनिक (स्पेशिएशन) जाँच कराएँ, LOQ ≤ {limit} {unit}।",
+    "test": "{analyte} की जाँच LOQ ≤ {limit} {unit} पर कराएँ।",
+    "verify_mrl": "EU Pesticides Database में चावल के लिए {analyte} की सीमा जाँचें।"
+   },
+   "basis": {
+    "guidance": "आधिकारिक दिशानिर्देश",
+    "law": "कानून",
+    "practice": "प्रचलन"
+   },
+   "basis_help": {
+    "guidance": "आधिकारिक दिशानिर्देश या मान्य पद्धति। पहले सुधारें का कारण बन सकता है।",
+    "law": "बाध्यकारी EU या भारतीय नियम। केवल यही रोक (HOLD) का कारण बन सकता है।",
+    "practice": "खरीदार या उद्योग का प्रचलन। पहले सुधारें का कारण बन सकता है, रोक का कभी नहीं।"
+   },
+   "docs": {
+    "ched_d": {
+     "issuer": "आपका EU आयातक",
+     "name": "CHED-D पूर्व-सूचना (आयातक की TRACES प्रविष्टि)"
+    },
+    "coi": {
+     "issuer": "EIC / EIA (निर्यात निरीक्षण एजेंसी)",
+     "name": "EU निर्यात के लिए निरीक्षण प्रमाणपत्र (CoI)"
+    },
+    "iec": {
+     "issuer": "DGFT",
+     "name": "आयात-निर्यात कोड (IEC)"
+    },
+    "invoice_pl": {
+     "issuer": "आपका कार्यालय या CHA",
+     "name": "कमर्शियल इनवॉइस और पैकिंग लिस्ट"
+    },
+    "phyto": {
+     "issuer": "पादप संगरोध (DPPQS)",
+     "name": "फाइटोसैनिटरी प्रमाणपत्र"
+    },
+    "rcac": {
+     "issuer": "APEDA",
+     "name": "इस निर्यात अनुबंध का APEDA पंजीकरण-सह-आवंटन प्रमाणपत्र (RCAC)"
+    }
+   },
+   "gates": {
+    "border": "EU सीमा",
+    "farm": "खेत",
+    "lab": "लैब",
+    "papers": "कागज़ात"
+   },
+   "m": {
+    "as_total_ok": "{analyte}: {value} {unit}। पूरा अकार्बनिक भी माना जाए तो {limit} {unit} के भीतर है।",
+    "as_total_speciation": "{analyte}: {value} {unit}, अकार्बनिक आर्सेनिक की सीमा {limit} {unit} से अधिक है। EU सीमा केवल अकार्बनिक हिस्से पर लागू होती है, इसलिए निर्णय से पहले आर्सेनिक स्पेशिएशन जाँच करवाएँ।",
+    "covered_by_screen": "{analyte}: इस रिपोर्ट की मल्टी-रेज़िड्यू स्क्रीन में शामिल है।",
+    "doc_missing": "{doc}: नहीं है। इसे {issuer} से लें।",
+    "doc_ok": "{doc}: उपलब्ध।",
+    "doc_unconfirmed": "{doc}: पुष्टि नहीं हुई। इसे {issuer} से लें और हाथ में आने पर टिक करें।",
+    "lab_accreditation_unknown": "मान्यता की पुष्टि नहीं हुई। जाँचें कि लैब का ISO/IEC 17025 (NABL) दायरा कीटनाशक, माइकोटॉक्सिन और धातुएँ कवर करता है।",
+    "lab_accredited": "लैब इन जाँचों के लिए मान्यता प्राप्त है (ISO/IEC 17025)।",
+    "lab_date_invalid": "रिपोर्ट की तारीख शिपमेंट की तारीख के बाद है। दोनों तारीखें जाँचें।",
+    "lab_date_missing": "रिपोर्ट की तारीख नहीं दी गई।",
+    "lab_fresh": "रिपोर्ट शिपमेंट पर {age} दिन पुरानी है (सीमा {max})।",
+    "lab_link_unknown": "पुष्टि नहीं कि रिपोर्ट इसी लॉट/बैच से जुड़ी है।",
+    "lab_linked": "रिपोर्ट में इसी लॉट/बैच का उल्लेख है।",
+    "lab_missing": "अभी कोई लैब परिणाम नहीं है। सीमा पर लैब भारतीय चावल की लगभग {pct}% खेपों में कीटनाशक अवशेष जाँचती हैं। उनसे पहले अपना परिणाम जानें।",
+    "lab_not_accredited": "लैब इन जाँचों के लिए मान्यता प्राप्त नहीं है। ऐसी ISO/IEC 17025 (NABL) लैब चुनें जिसके दायरे में ये जाँचें हों।",
+    "lab_stale": "रिपोर्ट शिपमेंट पर {age} दिन पुरानी है; सीमा {max} दिन है। दोबारा जाँच कराएँ या खरीदार की लिखित स्वीकृति लें।",
+    "lab_unlinked": "रिपोर्ट में इस लॉट/बैच का उल्लेख नहीं है, इसलिए यह इसकी गवाही नहीं दे सकती। लैब से अपना लॉट ID दर्ज कराएँ।",
+    "limit_close": "{analyte}: {value} {unit}, EU सीमा ({limit} {unit}) का {pct}% है। सीमा पर सामान्य जाँच-अंतर इसे ऊपर ले जा सकता है।",
+    "limit_exceeded": "{analyte}: {value} {unit}, EU सीमा {limit} {unit} से अधिक है (×{ratio})।",
+    "limit_ok": "{analyte}: {value} {unit}, EU सीमा ({limit} {unit}) के भीतर है।",
+    "loq_missing": "{analyte}: परिणाम \"पाया नहीं गया\" है पर LOQ नहीं दिया गया। इसके बिना {limit} {unit} का अनुपालन सिद्ध नहीं होता।",
+    "loq_too_high": "{analyte}: आपकी लैब केवल {loq} {unit} तक जाँचती है; EU सीमा {limit} {unit} है। अनुपालन सिद्ध नहीं किया जा सकता।",
+    "market_not_covered": "गंतव्य {dest} अभी शामिल नहीं है। यह रूल्स पैक केवल EU में बासमती चावल के लिए है, इसलिए कोई सीमा जाँची नहीं गई।",
+    "market_partial": "{market} के लिए कागज़ात और सीमा-व्यवस्था की जाँच अभी रूल्स पैक में नहीं है। केवल सीमाएँ जाँची गईं।",
+    "mu_note": "सरकारी लैब किसी परिणाम को अनुपालन-विहीन कहने से पहले {mu}% की डिफ़ॉल्ट मापन-अनिश्चितता घटाती हैं, इसलिए थोड़ा अधिक परिणाम औपचारिक रूप से अनुपालन-विहीन न भी माना जाए। इस पर निर्भर न रहें: MRL से ऊपर होना फिर भी गंभीर जोखिम माना जाता है और अधिसूचित होता है।",
+    "nd_ok": "{analyte}: पाया नहीं गया (LOQ {loq} {unit}), EU सीमा {limit} {unit} से नीचे।",
+    "no_blending": "इस लॉट को अनुपालन वाले चावल में मिलाकर पतला न करें। EU संदूषक नियम सीमा से ऊपर के खाद्य को अनुपालन वाले खाद्य में मिलाने से रोकते हैं, और मिलाया हुआ लॉट भी सीमा पर फेल हो सकता है।",
+    "regime_checks": "EU सीमा पर भारतीय चावल की लगभग {pct}% खेपें पहचान और भौतिक जाँच से गुज़रती हैं, जिनमें कीटनाशक अवशेषों के लिए लैब नमूना शामिल है। सूची की कम से कम हर छह महीने में समीक्षा होती है।",
+    "required_missing_default": "{analyte}: कोई परिणाम नहीं। यहाँ इसकी विशिष्ट EU सीमा दर्ज नहीं है; चावल के लिए कोई सीमा न हो तो {limit} {unit} लागू होती है। LOQ ≤ {limit} {unit} पर जाँच कराएँ।",
+    "required_missing_signal": "{analyte}: कोई परिणाम नहीं। EU सीमा {limit} {unit} है और भारतीय चावल पर इसके सीमा-अलर्ट का इतिहास है। LOQ ≤ {limit} {unit} पर जाँच कराएँ।",
+    "required_missing_sprayed": "{analyte}: आपने इसका छिड़काव किया है, पर कोई परिणाम नहीं है। EU सीमा {limit} {unit} है। भेजने से पहले LOQ ≤ {limit} {unit} पर जाँच कराएँ।",
+    "sampling_ok": "नमूना लैब या किसी स्वतंत्र पक्ष ने लिया।",
+    "sampling_self": "नमूना आपने खुद लिया। सीमा की लैब पूरे लॉट का प्रतिनिधि नमूना मानती हैं; निरीक्षण एजेंसी या लैब के अपने सैंपलर से नमूना लें।",
+    "sampling_unknown": "नमूना किसने लिया, यह नहीं बताया गया।",
+    "screen_missing": "मल्टी-रेज़िड्यू स्क्रीन नहीं है। EU सीमा की लैब, EU नियंत्रण कार्यक्रम के कीटनाशकों की GC-MS/MS और LC-MS/MS से जाँच करती हैं; कुछ चुने हुए यौगिक काफ़ी नहीं।",
+    "screen_ok": "रिपोर्ट में मल्टी-रेज़िड्यू कीटनाशक स्क्रीन (GC-MS/MS और LC-MS/MS) शामिल है।",
+    "should_missing": "रिपोर्ट में नहीं: {list}। भारतीय बासमती पर सीमा-अलर्ट का संकेत कम है, पर कानूनी सीमाएँ लागू हैं। खरीदार माँगे तो जोड़ें।",
+    "sprayed_note": "{analyte} का छिड़काव हुआ। चावल के लिए EU सीमा: {limit} {unit}।",
+    "sprayed_note_gap": "{analyte} का छिड़काव हुआ। भारत (FSSAI) {india_limit} {unit} तक अनुमति देता है; EU {limit} {unit}, यानी {gap} गुना सख़्त। लॉट भारत में पास होकर भी EU सीमा पर लौटाया जा सकता है।",
+    "sprayed_note_gap_punjab": "{analyte} का छिड़काव हुआ। भारत (FSSAI) {india_limit} {unit} तक अनुमति देता है; EU {limit} {unit} ({gap} गुना सख़्त), और पंजाब ने 2025 में बासमती पर इसे प्रतिबंधित किया था।",
+    "sprayed_note_nolimit": "{analyte} का छिड़काव हुआ। यहाँ इसकी विशिष्ट EU सीमा दर्ज नहीं है; चावल के लिए कोई सीमा न हो तो {limit} {unit} लागू होती है। सीमा जाँचें और इसकी जाँच कराएँ।",
+    "sprayed_note_punjab": "{analyte} का छिड़काव हुआ। यह 2025 में पंजाब की बासमती-प्रतिबंधित सूची में था। EU सीमा: {limit} {unit}।",
+    "sprayed_unknown": "{analyte} रूलबुक में नहीं है। चावल के लिए इसकी EU सीमा देखें; कोई सीमा न हो तो {limit} {unit} लागू होती है। इसकी जाँच कराएँ।",
+    "unit_unknown": "{analyte}: इकाई \"{unit}\" पहचानी नहीं गई। mg/kg, ppm, µg/kg या ppb इस्तेमाल करें।",
+    "verify_mrl": "{analyte}: {value} {unit} मिला। यहाँ इसकी कोई विशिष्ट EU सीमा दर्ज नहीं है; चावल के लिए कोई सीमा न हो तो डिफ़ॉल्ट {limit} {unit} लागू होती है। भेजने से पहले EU Pesticides Database में जाँचें।"
+   },
+   "severity": {
+    "block": "शिपमेंट रोकता है",
+    "fix": "पहले सुधारें",
+    "note": "जानने योग्य",
+    "pass": "ठीक"
+   },
+   "ui": {
+    "add": "जोड़ें",
+    "add_ph": "पदार्थ जोड़ें",
+    "app_name": "NiryatSafe",
+    "band_a": "निर्णय में कोई LLM नहीं।",
+    "band_b": "नतीजे केवल सीमाओं की तालिका से आते हैं, इसलिए हर नतीजा उसके स्रोत तक खोजा जा सकता है।",
+    "bars_eu": "EU सीमा",
+    "bars_india": "भारत (FSSAI)",
+    "bars_loq": "आपकी लैब जाँचती है",
+    "bars_result": "आपका परिणाम",
+    "basmati": "बासमती चावल",
+    "blank": "खाली से शुरू करें",
+    "boundary": "NiryatSafe निर्यातक के निर्णय में मदद करता है। अंतिम मंज़ूरी लैब प्रमाणपत्र और अधिकारियों के पास ही रहती है।",
+    "by": "GREENLIGHT की ओर से",
+    "computed": "नतीजा इसी डिवाइस पर {ms} ms में निकला",
+    "csv_btn": "CSV आयात करें",
+    "demo_data": "इस दृश्य में नकली (SYNTHETIC) डेमो डेटा शामिल है।",
+    "dest_eu_any": "EU (कोई भी सदस्य देश)",
+    "dest_other": "अन्य (अभी शामिल नहीं)",
+    "f_dest": "गंतव्य",
+    "f_form": "चावल का प्रकार",
+    "f_form_hint": "सेला = उसना चावल।",
+    "f_lotid": "लॉट नंबर",
+    "f_origin": "मूल राज्य",
+    "f_product": "उत्पाद",
+    "f_ship": "शिपमेंट की तारीख",
+    "f_source": "स्रोत (मिल या किसान समूह)",
+    "f_source_hint": "वैकल्पिक। केवल आपके अपने पैटर्न के लिए।",
+    "f_source_ph": "जैसे करनाल मिल 2",
+    "farm_gap_hint": "×N = EU सीमा भारत (FSSAI) की सीमा से N गुना सख़्त है।",
+    "farm_lead": "इस फसल पर जो छिड़का गया उसे चुनें। हर चुना हुआ पदार्थ ज़रूरी जाँच बन जाता है, और संख्या बताती है कि EU भारत से कितना सख़्त है।",
+    "farm_other": "अन्य पदार्थ",
+    "foot_limits": "v0.1 में शामिल नहीं: अन्य उत्पाद और बाज़ार, लेबल जाँच, लैब रिपोर्ट की फ़ोटो से पढ़ना। NiryatSafe निर्णय में सहायक है, कानूनी सलाह नहीं।",
+    "foot_open": "ओपन सोर्स (MIT)। हर नियम rules/limits.csv की एक पंक्ति है; नया बाज़ार जोड़ना एक पुल रिक्वेस्ट है।",
+    "foot_rules": "रूल्स पैक {v} · हैश {h}",
+    "form_brown": "भूरा",
+    "form_raw": "कच्चा सफ़ेद",
+    "form_sella": "सेला",
+    "gap_lead": "चावल के लिए सीमाएँ, mg/kg में। जो लॉट भारत की सीमा में पास होता है, वह भी EU सीमा पर लौटाया जा सकता है।",
+    "gap_src": "भारत (FSSAI) और EU की सीमाएँ भारत सरकार के उत्तर (लोकसभा अतारांकित प्रश्न 2057, 11 मार्च 2025) के अनुसार।",
+    "gap_title": "भारत में पास, EU में फेल",
+    "hero_h1": "क्या यह लॉट EU सीमा पार करेगा?",
+    "hero_kicker": "कंटेनर लदने से पहले",
+    "hero_sub": "लॉट और लैब के जो मान आपके पास हैं, भरें। NiryatSafe हर मान को EU सीमा से मिलाकर बताता है: भेजें, पहले सुधारें या रोकें, और कौन-सी जाँच या कागज़ बाकी है।",
+    "hist_lead": "भारतीय चावल पर EU सीमा-अलर्ट, कीटनाशक और साल के हिसाब से।",
+    "hist_partial": "{y} अधूरा साल है",
+    "hist_title": "भारतीय चावल किन वजहों से पकड़ा जाता है",
+    "hist_total": "{n} अलर्ट",
+    "kicker_in_rice": "चावल में {analyte}",
+    "lab_accred": "क्या लैब मान्यता प्राप्त है (ISO/IEC 17025)?",
+    "lab_accred_h": "उसके दायरे में ये जाँचें होनी चाहिए।",
+    "lab_date": "रिपोर्ट की तारीख",
+    "lab_linked": "क्या रिपोर्ट में यही लॉट/बैच लिखा है?",
+    "lab_linked_h": "रिपोर्ट पर लॉट ID लिखवाएँ।",
+    "lab_sampling": "नमूना किसने लिया?",
+    "lab_screen": "क्या मल्टी-रेज़िड्यू कीटनाशक स्क्रीन शामिल है?",
+    "lab_screen_h": "GC-MS/MS और LC-MS/MS, LOQ 0.01 mg/kg या कम।",
+    "listen": "सुनें",
+    "lot": "लॉट",
+    "lot_untitled": "बिना नाम का लॉट",
+    "lots_empty": "पैटर्न देखने के लिए लॉट सहेजें: कौन-सा कीटनाशक या स्रोत बार-बार दिक्कत देता है।",
+    "lots_local": "सहेजे गए लॉट इसी डिवाइस पर रहते हैं।",
+    "markond": "खाली कीटनाशक ND करें",
+    "markond_h": "केवल तब जब आपकी रिपोर्ट यही कहती हो। LOQ 0.01 mg/kg के साथ ND लगाता है।",
+    "memo_findings": "खुले बिंदु",
+    "memo_id": "मेमो ID",
+    "memo_nollm": "तय नियम, निर्णय में कोई AI नहीं।",
+    "memo_passed": "{n} जाँचें ठीक",
+    "memo_sources": "स्रोत",
+    "memo_title": "शिपमेंट-पूर्व अनुपालन मेमो",
+    "more": "+{n} और नीचे",
+    "no": "नहीं",
+    "offline": "ऑफ़लाइन",
+    "online": "ऑनलाइन",
+    "open_verdict": "नतीजा",
+    "papers_importer": "आयातक की ओर",
+    "papers_none": "इस गंतव्य के लिए कागज़ात की जाँच अभी रूल्स पैक में नहीं है।",
+    "paste_btn": "लैब तालिका चिपकाएँ",
+    "paste_go": "तालिका पढ़ें",
+    "paste_none": "कोई परिणाम पंक्ति नहीं मिली। हर पंक्ति में नाम और मान या ND चाहिए।",
+    "paste_ok": "{n} पंक्तियाँ पढ़ीं, {skipped} लाइनें छोड़ीं।",
+    "paste_ph": "अपनी लैब रिपोर्ट की पंक्तियाँ चिपकाएँ, जैसे\nTricyclazole  <0.01  mg/kg  0.01",
+    "paste_unknown": "{n} रूल्स पैक में नहीं हैं: कोई विशिष्ट सीमा न हो तो EU की डिफ़ॉल्ट 0.01 mg/kg लागू होती है।",
+    "pat_src": "सबसे ज़्यादा चिह्नित लॉट वाले स्रोत",
+    "pat_sub": "सबसे ज़्यादा चिह्नित",
+    "path": "भेजने तक का रास्ता",
+    "patterns": "आपके सहेजे लॉट के पैटर्न",
+    "pill_ready": "ऐप और रूल्स पैक इस डिवाइस में सहेजे हैं",
+    "print": "मेमो प्रिंट करें",
+    "regime_card": "EU सीमा पर भारतीय चावल की लगभग {pct}% खेपें कीटनाशक अवशेषों के लिए पहचान और भौतिक जाँच से गुज़रती हैं।",
+    "remove": "हटाएँ",
+    "risk_alerts": "EU अलर्ट {n}, पिछले 5 साल",
+    "risk_help": "आँकड़ों के पिछले पाँच सालों में भारतीय चावल पर {n} EU सीमा-अलर्ट",
+    "risk_high": "ऊँचा जोखिम",
+    "risk_low": "कम जोखिम",
+    "risk_med": "मध्यम जोखिम",
+    "rulebook": "रूल्स पैक",
+    "s_evidence": "ये जाँचें क्यों",
+    "s_farm": "खेत और छिड़काव रिकॉर्ड",
+    "s_lab": "लैब रिपोर्ट",
+    "s_lot": "लॉट",
+    "s_lots": "मेरे लॉट",
+    "s_papers": "कागज़ात",
+    "s_verdict": "नतीजा",
+    "samp_lab": "लैब",
+    "samp_self": "मैंने",
+    "samp_third": "निरीक्षक",
+    "samples": "एक लॉट आज़माएँ",
+    "save": "लॉट सहेजें",
+    "share": "WhatsApp",
+    "sources_used": "इस नतीजे के स्रोत ({n})",
+    "st_nd": "ND",
+    "st_nt": "—",
+    "st_value": "#",
+    "stale": "यह रूल्स पैक {d} दिन पुराना है। भरोसा करने से पहले अपडेट देखें।",
+    "steps": "भेजने तक {n} कदम",
+    "steps_none": "सुधारने को कुछ नहीं बचा",
+    "steps_one": "भेजने तक 1 कदम",
+    "unit": "इकाई",
+    "unsure": "पक्का नहीं",
+    "value": "मान",
+    "verified": "सत्यापित",
+    "verify": "सर्वर से मिलान",
+    "verify_busy": "सर्वर से पूछ रहे हैं…",
+    "verify_diff": "सर्वर का नतीजा अलग है: {v}, मेमो {id}। रूल्स पैक के संस्करण अलग हो सकते हैं।",
+    "verify_off": "सर्वर से संपर्क नहीं हुआ। ऊपर का नतीजा फिर भी सही है: यह इसी डिवाइस पर निकला है।",
+    "verify_ok": "सर्वर सहमत है: वही नतीजा और मेमो ID {id}।",
+    "works_offline": "ऑफ़लाइन भी चलता है",
+    "yes": "हाँ"
+   },
+   "verdict": {
+    "FIX_FIRST": "पहले सुधारें",
+    "HOLD": "रोकें",
+    "SHIP": "भेजें"
+   },
+   "verdict_sub": {
+    "FIX_FIRST": "कोई पुष्ट उल्लंघन नहीं, पर प्रमाण अधूरे हैं। नीचे की कमियाँ पूरी करें, फिर दोबारा जाँचें।",
+    "HOLD": "एक परिणाम EU की कानूनी सीमा से ऊपर है। यह लॉट ऐसे ही EU न भेजें।",
+    "SHIP": "जो भी ज़रूरी है उसका प्रमाण है और सब EU सीमा के भीतर है।"
+   }
+  }
+ },
+ "markets": {
+  "EU": {
+   "countries": [
+    "AT",
+    "BE",
+    "BG",
+    "HR",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IE",
+    "IT",
+    "LV",
+    "LT",
+    "LU",
+    "MT",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "ES",
+    "SE"
+   ],
+   "default_limit": 0.01,
+   "default_source": "reg_396_2005",
+   "docs": [
+    {
+     "basis": "law",
+     "gate": "papers",
+     "id": "iec",
+     "missing": "fix",
+     "sources": [
+      "apeda_rice_req"
+     ]
+    },
+    {
+     "basis": "law",
+     "gate": "papers",
+     "id": "rcac",
+     "missing": "fix",
+     "sources": [
+      "apeda_rice_req"
+     ]
+    },
+    {
+     "basis": "law",
+     "gate": "papers",
+     "id": "phyto",
+     "missing": "fix",
+     "sources": [
+      "apeda_rice_req"
+     ]
+    },
+    {
+     "basis": "law",
+     "gate": "papers",
+     "id": "coi",
+     "missing": "fix",
+     "sources": [
+      "dgft_29_2015",
+      "apeda_rice_req"
+     ]
+    },
+    {
+     "basis": "practice",
+     "gate": "papers",
+     "id": "invoice_pl",
+     "missing": "fix",
+     "sources": []
+    },
+    {
+     "basis": "law",
+     "gate": "papers",
+     "id": "ched_d",
+     "missing": "note",
+     "sources": [
+      "taric_1006"
+     ]
+    }
+   ],
+   "name": {
+    "en": "European Union",
+    "hi": "यूरोपीय संघ"
+   },
+   "regime": {
+    "increased_checks": {
+     "cn": "1006",
+     "hazard": "pesticide_residues",
+     "in_force": "2026-02-18",
+     "pct": 10,
+     "sources": [
+      "reg_2026_194",
+      "reg_2019_1793"
+     ]
+    }
+   }
+  }
+ },
+ "meta": {
+  "default_market": "EU",
+  "hash": "82b3058fe90d",
+  "id": "eu-basmati",
+  "policy": {
+   "mu_default": 0.5,
+   "report_max_age_days": 60,
+   "risk_high": 10,
+   "risk_med": 3,
+   "stale_after_days": 120,
+   "watch_fraction": 0.8
+  },
+  "released": "2026-10-21",
+  "scope_en": "Basmati rice (CN 1006), India to the European Union",
+  "scope_hi": "बासमती चावल (CN 1006), भारत से यूरोपीय संघ",
+  "verified_on": "2026-10-20",
+  "version": "1.0.0"
+ },
+ "samples": [
+  {
+   "blurb": {
+    "en": "Tricyclazole tested only down to 0.05 mg/kg. The EU limit is 0.01.",
+    "hi": "ट्राइसाइक्लाज़ोल केवल 0.05 mg/kg तक जाँचा गया। EU सीमा 0.01 है।"
+   },
+   "expect": "FIX_FIRST",
+   "id": "lot402",
+   "input": {
+    "docs": {
+     "ched_d": true,
+     "coi": true,
+     "iec": true,
+     "invoice_pl": true,
+     "phyto": true,
+     "rcac": true
+    },
+    "lab": {
+     "accredited": true,
+     "linked": true,
+     "report_date": "-4d",
+     "sampling": "third_party",
+     "screen": true
+    },
+    "lot": {
+     "dest": "DE",
+     "form": "raw_white",
+     "lot_id": "402",
+     "origin": "punjab",
+     "ship_date": "+14d"
+    },
+    "results": [
+     {
+      "analyte": "tricyclazole",
+      "loq": 0.05,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "carbendazim",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "thiamethoxam",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "chlorpyrifos",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "imidacloprid",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     }
+    ],
+    "sprays": []
+   },
+   "title": {
+    "en": "Lot 402 · Punjab → Germany",
+    "hi": "लॉट 402 · पंजाब → जर्मनी"
+   }
+  },
+  {
+   "blurb": {
+    "en": "Every required test on file, all inside EU limits, papers in order.",
+    "hi": "हर ज़रूरी जाँच मौजूद, सब EU सीमा के भीतर, कागज़ात पूरे।"
+   },
+   "expect": "SHIP",
+   "id": "clean",
+   "input": {
+    "docs": {
+     "ched_d": true,
+     "coi": true,
+     "iec": true,
+     "invoice_pl": true,
+     "phyto": true,
+     "rcac": true
+    },
+    "lab": {
+     "accredited": true,
+     "linked": true,
+     "report_date": "-6d",
+     "sampling": "third_party",
+     "screen": true
+    },
+    "lot": {
+     "dest": "NL",
+     "form": "sella",
+     "lot_id": "HR-1121-0318",
+     "origin": "haryana",
+     "ship_date": "+18d"
+    },
+    "results": [
+     {
+      "analyte": "tricyclazole",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "thiamethoxam",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "chlorpyrifos",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "imidacloprid",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "carbendazim",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "propiconazole",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "buprofezin",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "profenofos",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "acephate",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "hexaconazole",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "methamidophos",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "triazophos",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "aflatoxin_b1",
+      "loq": 0.5,
+      "status": "nd",
+      "unit": "ug/kg"
+     },
+     {
+      "analyte": "aflatoxin_total",
+      "loq": 1.0,
+      "status": "nd",
+      "unit": "ug/kg"
+     },
+     {
+      "analyte": "ochratoxin_a",
+      "loq": 1.0,
+      "status": "nd",
+      "unit": "ug/kg"
+     },
+     {
+      "analyte": "arsenic_inorganic",
+      "loq": null,
+      "status": "value",
+      "unit": "mg/kg",
+      "value": 0.11
+     },
+     {
+      "analyte": "cadmium",
+      "loq": null,
+      "status": "value",
+      "unit": "mg/kg",
+      "value": 0.03
+     }
+    ],
+    "sprays": [
+     "buprofezin"
+    ]
+   },
+   "title": {
+    "en": "Clean sella lot",
+    "hi": "साफ़ सेला लॉट"
+   }
+  },
+  {
+   "blurb": {
+    "en": "Four tests, one loose LOQ, an old report, a hand-drawn sample and missing papers.",
+    "hi": "चार जाँचें, एक ढीला LOQ, पुरानी रिपोर्ट, खुद लिया नमूना और अधूरे कागज़ात।"
+   },
+   "expect": "FIX_FIRST",
+   "id": "fix",
+   "input": {
+    "docs": {
+     "ched_d": null,
+     "coi": null,
+     "iec": true,
+     "invoice_pl": true,
+     "phyto": false,
+     "rcac": true
+    },
+    "lab": {
+     "accredited": true,
+     "linked": false,
+     "report_date": "-71d",
+     "sampling": "self",
+     "screen": false
+    },
+    "lot": {
+     "dest": "BE",
+     "form": "raw_white",
+     "lot_id": "PB-1509-0107",
+     "origin": "punjab",
+     "ship_date": "+9d"
+    },
+    "results": [
+     {
+      "analyte": "tricyclazole",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "carbendazim",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "thiamethoxam",
+      "loq": null,
+      "status": "value",
+      "unit": "mg/kg",
+      "value": 0.009
+     },
+     {
+      "analyte": "chlorpyrifos",
+      "loq": 0.05,
+      "status": "nd",
+      "unit": "mg/kg"
+     }
+    ],
+    "sprays": [
+     "tricyclazole",
+     "tebuconazole"
+    ]
+   },
+   "title": {
+    "en": "Thin report",
+    "hi": "अधूरी रिपोर्ट"
+   }
+  },
+  {
+   "blurb": {
+    "en": "Tricyclazole 0.18 mg/kg is far under India's 3.0 limit but 18× the EU's 0.01.",
+    "hi": "ट्राइसाइक्लाज़ोल 0.18 mg/kg भारत की 3.0 सीमा से बहुत नीचे है, पर EU की 0.01 से 18 गुना।"
+   },
+   "expect": "HOLD",
+   "id": "hold",
+   "input": {
+    "docs": {
+     "ched_d": true,
+     "coi": true,
+     "iec": true,
+     "invoice_pl": true,
+     "phyto": true,
+     "rcac": true
+    },
+    "lab": {
+     "accredited": true,
+     "linked": true,
+     "report_date": "-5d",
+     "sampling": "third_party",
+     "screen": true
+    },
+    "lot": {
+     "dest": "IT",
+     "form": "raw_white",
+     "lot_id": "PB-1121-0472",
+     "origin": "punjab",
+     "ship_date": "+12d"
+    },
+    "results": [
+     {
+      "analyte": "tricyclazole",
+      "loq": null,
+      "status": "value",
+      "unit": "mg/kg",
+      "value": 0.18
+     },
+     {
+      "analyte": "carbendazim",
+      "loq": null,
+      "status": "value",
+      "unit": "mg/kg",
+      "value": 0.07
+     },
+     {
+      "analyte": "thiamethoxam",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     },
+     {
+      "analyte": "chlorpyrifos",
+      "loq": 0.01,
+      "status": "nd",
+      "unit": "mg/kg"
+     }
+    ],
+    "sprays": [
+     "tricyclazole",
+     "carbendazim"
+    ]
+   },
+   "title": {
+    "en": "Passes India, fails the EU",
+    "hi": "भारत में पास, EU में फेल"
+   }
+  },
+  {
+   "blurb": {
+    "en": "Only a spray diary. What must be tested, and why.",
+    "hi": "सिर्फ़ छिड़काव का रिकॉर्ड। क्या जाँचना है, और क्यों।"
+   },
+   "expect": "FIX_FIRST",
+   "id": "early",
+   "input": {
+    "docs": {},
+    "lab": {},
+    "lot": {
+     "dest": "",
+     "form": "raw_white",
+     "lot_id": "",
+     "origin": "punjab",
+     "ship_date": null
+    },
+    "results": [],
+    "sprays": [
+     "tricyclazole",
+     "imidacloprid",
+     "carbofuran",
+     "isoprothiolane"
+    ]
+   },
+   "title": {
+    "en": "Before the lab",
+    "hi": "लैब से पहले"
+   }
+  }
+ ],
+ "signals": {
+  "built_on": "2026-10-23",
+  "by_analyte": {
+   "acephate": {
+    "by_year": {
+     "2015": 1,
+     "2016": 1,
+     "2017": 5,
+     "2018": 3,
+     "2019": 2
+    },
+    "recent": 0,
+    "total": 12
+   },
+   "buprofezin": {
+    "by_year": {
+     "2020": 2
+    },
+    "recent": 0,
+    "total": 2
+   },
+   "carbendazim": {
+    "by_year": {
+     "2015": 7,
+     "2016": 1,
+     "2018": 7,
+     "2021": 1,
+     "2022": 1,
+     "2023": 1,
+     "2024": 2
+    },
+    "recent": 5,
+    "total": 20
+   },
+   "chlorpyrifos": {
+    "by_year": {
+     "2018": 2,
+     "2021": 2,
+     "2022": 2,
+     "2023": 6,
+     "2024": 5,
+     "2025": 1
+    },
+    "recent": 16,
+    "total": 18
+   },
+   "chlorpyrifos_methyl": {
+    "by_year": {
+     "2015": 1
+    },
+    "recent": 0,
+    "total": 1
+   },
+   "hexaconazole": {
+    "by_year": {
+     "2015": 2
+    },
+    "recent": 0,
+    "total": 2
+   },
+   "imazalil": {
+    "by_year": {
+     "2024": 1
+    },
+    "recent": 1,
+    "total": 1
+   },
+   "imidacloprid": {
+    "by_year": {
+     "2022": 1,
+     "2023": 5,
+     "2024": 3
+    },
+    "recent": 9,
+    "total": 9
+   },
+   "methamidophos": {
+    "by_year": {
+     "2015": 1,
+     "2017": 3,
+     "2018": 2,
+     "2019": 1
+    },
+    "recent": 0,
+    "total": 7
+   },
+   "profenofos": {
+    "by_year": {
+     "2015": 1,
+     "2018": 1,
+     "2023": 1
+    },
+    "recent": 1,
+    "total": 3
+   },
+   "propiconazole": {
+    "by_year": {
+     "2022": 2,
+     "2023": 1,
+     "2024": 2
+    },
+    "recent": 5,
+    "total": 5
+   },
+   "thiamethoxam": {
+    "by_year": {
+     "2018": 1,
+     "2019": 6,
+     "2020": 2,
+     "2021": 6,
+     "2022": 12,
+     "2023": 15,
+     "2024": 15,
+     "2025": 3
+    },
+    "recent": 51,
+    "total": 60
+   },
+   "thifluzamide": {
+    "by_year": {
+     "2024": 2
+    },
+    "recent": 2,
+    "total": 2
+   },
+   "triazophos": {
+    "by_year": {
+     "2015": 2,
+     "2018": 3
+    },
+    "recent": 0,
+    "total": 5
+   },
+   "tricyclazole": {
+    "by_year": {
+     "2018": 14,
+     "2019": 8,
+     "2020": 7,
+     "2021": 6,
+     "2022": 22,
+     "2023": 19,
+     "2024": 19,
+     "2025": 2
+    },
+    "recent": 68,
+    "total": 97
+   }
+  },
+  "demo": false,
+  "gap": [
+   {
+    "analyte": "tricyclazole",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 1.0,
+    "eu_now": 0.01,
+    "fssai": 3.0,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "thiamethoxam",
+    "codex": 3.0,
+    "codex_note": "polished rice",
+    "eu_before": 0.01,
+    "eu_now": 0.01,
+    "fssai": 0.02,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "chlorpyrifos",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 0.5,
+    "eu_now": 0.01,
+    "fssai": 0.5,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "imidacloprid",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 1.5,
+    "eu_now": 0.01,
+    "fssai": 0.05,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "carbendazim",
+    "codex": 2.0,
+    "codex_note": "husked rice",
+    "eu_before": 0.01,
+    "eu_now": 0.01,
+    "fssai": 2.0,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "propiconazole",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 1.5,
+    "eu_now": 0.01,
+    "fssai": 0.05,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "buprofezin",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 0.5,
+    "eu_now": 0.01,
+    "fssai": 0.05,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "profenofos",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 0.01,
+    "eu_now": 0.01,
+    "fssai": null,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "thifluzamide",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": null,
+    "eu_now": null,
+    "fssai": 0.05,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "imazalil",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 0.05,
+    "eu_now": 0.01,
+    "fssai": null,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "acephate",
+    "codex": 1.0,
+    "codex_note": "husked rice",
+    "eu_before": 0.02,
+    "eu_now": 0.01,
+    "fssai": 1.0,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "methamidophos",
+    "codex": 0.6,
+    "codex_note": "husked rice",
+    "eu_before": 0.01,
+    "eu_now": 0.01,
+    "fssai": null,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "triazophos",
+    "codex": 0.6,
+    "codex_note": "polished rice",
+    "eu_before": 0.02,
+    "eu_now": 0.02,
+    "fssai": 0.6,
+    "source_id": "ls_2057_2025"
+   },
+   {
+    "analyte": "chlorpyrifos_methyl",
+    "codex": null,
+    "codex_note": null,
+    "eu_before": 3.0,
+    "eu_now": 0.01,
+    "fssai": null,
+    "source_id": "ls_2057_2025"
+   }
+  ],
+  "hazards": {},
+  "recent_span": [
+   2021,
+   2025
+  ],
+  "sources": [
+   {
+    "first_year": 2015,
+    "id": "ls_2057_2025",
+    "kind": "reference",
+    "label": "Government of India, Lok Sabha USQ 2057 (11 Mar 2025): EU RASFF detections in Indian rice, 2015 to Mar 2025",
+    "last_year": 2025,
+    "rows": 244,
+    "synthetic": false
+   }
+  ],
+  "totals": {
+   "first_year": 2015,
+   "last_year": 2025,
+   "notifications": 244
+  },
+  "years": [
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ]
+ },
+ "sources": {
+  "apeda_rice_req": {
+   "kind": "official",
+   "title": "APEDA — Requirements for export of rice: IEC, phytosanitary certificate (DPPQS), RCAC; EIC/EIA certificate of inspection for the EU",
+   "url": "https://apeda.gov.in/node/6866",
+   "verified": "primary"
+  },
+  "dgft_29_2015": {
+   "date": "2019-11-04",
+   "kind": "official",
+   "title": "DGFT Notification 29/2015-20 (4 Nov 2019) — rice (Basmati and non-Basmati) to the EU needs a Certificate of Inspection from EIC/EIA",
+   "url": "https://taxguru.in/dgft/dgft-notifies-eic-eia-inspection-agency-export-rice-eu.html",
+   "verified": "secondary"
+  },
+  "eu_pesticides_db": {
+   "kind": "official",
+   "title": "EU Pesticides Database, MRL search for rice (used by `python -m pipeline limits-diff` before each release)",
+   "url": "https://food.ec.europa.eu/plants/pesticides/eu-pesticides-database_en",
+   "verified": "unchecked"
+  },
+  "iref_2026": {
+   "date": "2026-09-25",
+   "kind": "news",
+   "title": "IREF, 25 Sep 2026 — pesticide residues and quality gaps drive rice rejections; stronger pre-shipment checks can curb risks",
+   "url": "https://aninews.in/news/business/pesticide-residues-quality-gaps-drive-indian-rice-shipment-rejections-stronger-pre-shipment-checks-can-curb-risks-iref20260925102648/",
+   "verified": "secondary"
+  },
+  "ls_1314_2024": {
+   "date": "2024-07-24",
+   "kind": "official",
+   "title": "Lok Sabha USQ 1314 (30 Jul 2024), Annexure — EU MRLs for rice at 0.01 mg/kg, as on 24.07.2024",
+   "url": "https://eparlib.nic.in/bitstream/123456789/2978412/1/AU1314_HqO1aN.pdf",
+   "verified": "primary"
+  },
+  "ls_2057_2025": {
+   "date": "2025-03-11",
+   "kind": "official",
+   "title": "Lok Sabha USQ 2057 (11 Mar 2025) — RASFF detections in Indian rice 2015-2025; EU vs Codex vs FSSAI limits",
+   "url": "https://www.commerce.gov.in/wp-content/uploads/2025/03/LS-USQ-No.2057-dated.-11.03.2025.pdf",
+   "verified": "primary"
+  },
+  "punjab_2025": {
+   "date": "2025-07-25",
+   "kind": "news",
+   "title": "Punjab Government: 60-day ban on listed insecticides on basmati (1 Aug-30 Sep 2025; gazette 10 May 2025; hexaconazole added 15 Jul 2025)",
+   "url": "https://www.global-agriculture.com/india-region/hexaconazole-added-to-the-list-of-insecticides-banned-for-basmati-paddy-in-punjab/",
+   "verified": "secondary"
+  },
+  "rasff_wi_2_2": {
+   "kind": "guidance",
+   "title": "ACN working instruction 2.2 — default measurement uncertainty 50%; notification mandatory when an MRL is exceeded",
+   "url": "https://food.ec.europa.eu/system/files/2022-03/rasff_reg-guid_sops_wi-2-2_en.pdf",
+   "verified": "secondary"
+  },
+  "reg_2017_983": {
+   "date": "2017-06-09",
+   "kind": "law",
+   "title": "Commission Regulation (EU) 2017/983 — tricyclazole MRL in rice 0.01 mg/kg (LOQ); applies to Basmati from 30 Dec 2017",
+   "url": "https://eur-lex.europa.eu/eli/reg/2017/983/oj/eng",
+   "verified": "primary"
+  },
+  "reg_2019_1793": {
+   "kind": "law",
+   "title": "Implementing Regulation (EU) 2019/1793 — temporary increase of official controls on food of non-animal origin",
+   "url": "https://eur-lex.europa.eu/eli/reg_impl/2019/1793/oj",
+   "verified": "primary"
+  },
+  "reg_2021_1323": {
+   "date": "2021-08-10",
+   "kind": "law",
+   "title": "Commission Regulation (EU) 2021/1323 — cadmium: rice 0.20 mg/kg (carried into 2023/915)",
+   "url": "https://eur-lex.europa.eu/eli/reg/2021/1323/oj/eng",
+   "verified": "primary"
+  },
+  "reg_2023_465": {
+   "date": "2023-03-03",
+   "kind": "law",
+   "title": "Commission Regulation (EU) 2023/465 — inorganic arsenic: 0.15 mg/kg non-parboiled milled rice; 0.25 parboiled and husked rice",
+   "url": "https://eur-lex.europa.eu/eli/reg/2023/465/oj",
+   "verified": "primary"
+  },
+  "reg_2023_915": {
+   "kind": "law",
+   "title": "Commission Regulation (EU) 2023/915 — contaminants in food; Annex I 1.1 aflatoxins, 1.2 ochratoxin A",
+   "url": "https://eur-lex.europa.eu/eli/reg/2023/915/oj",
+   "verified": "secondary"
+  },
+  "reg_2026_194": {
+   "date": "2026-01-28",
+   "kind": "law",
+   "title": "Implementing Regulation (EU) 2026/194 (in force 18 Feb 2026) — Annex I: India, rice (CN 1006), pesticide residues, 10% identity and physical checks",
+   "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/194/oj/eng",
+   "verified": "primary"
+  },
+  "reg_396_2005": {
+   "kind": "law",
+   "title": "Regulation (EC) No 396/2005 — pesticide MRLs; Art. 18(1)(b): default MRL 0.01 mg/kg where none is set",
+   "url": "https://eur-lex.europa.eu/eli/reg/2005/396/oj",
+   "verified": "secondary"
+  },
+  "sante_11312": {
+   "kind": "guidance",
+   "title": "SANTE/11312/2021 v2 — pesticide residue analysis; default expanded measurement uncertainty 50%",
+   "url": "https://food.ec.europa.eu/document/download/d4786faf-c574-4222-a5c6-45086b3920b8_en",
+   "verified": "secondary"
+  },
+  "taric_1006": {
+   "kind": "official",
+   "title": "EU TARIC, heading 1006 — CHED-D (Implementing Regulation (EU) 2019/1715) among import conditions",
+   "url": "https://www.thetradehub.eu/en/customs/taric/100620920080",
+   "verified": "secondary"
+  }
+ }
+}

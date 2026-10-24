@@ -1,0 +1,14 @@
+{
+  "name": "niryatsafe-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "NiryatSafe PWA (React). The rules pack is compiled by `python -m niryatsafe.rulebook build` and imported at build time.",
+  "scripts": {
+    "build": "node build.mjs",
+    "standalone": "node build.mjs --standalone",
+    "test": "node --test"
+  },
+  "dependencies": { "react": "^19.2.0", "react-dom": "^19.2.0" },
+  "devDependencies": { "esbuild": "^0.27.0" }
+}

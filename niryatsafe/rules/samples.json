@@ -1,0 +1,381 @@
+[
+ {
+  "id": "lot402",
+  "expect": "FIX_FIRST",
+  "title": {
+   "en": "Lot 402 · Punjab → Germany",
+   "hi": "लॉट 402 · पंजाब → जर्मनी"
+  },
+  "blurb": {
+   "en": "Tricyclazole tested only down to 0.05 mg/kg. The EU limit is 0.01.",
+   "hi": "ट्राइसाइक्लाज़ोल केवल 0.05 mg/kg तक जाँचा गया। EU सीमा 0.01 है।"
+  },
+  "input": {
+   "lot": {
+    "form": "raw_white",
+    "dest": "DE",
+    "ship_date": "+14d",
+    "origin": "punjab",
+    "lot_id": "402"
+   },
+   "lab": {
+    "accredited": true,
+    "report_date": "-4d",
+    "linked": true,
+    "sampling": "third_party",
+    "screen": true
+   },
+   "results": [
+    {
+     "analyte": "tricyclazole",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.05
+    },
+    {
+     "analyte": "carbendazim",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "thiamethoxam",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "chlorpyrifos",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "imidacloprid",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    }
+   ],
+   "sprays": [],
+   "docs": {
+    "iec": true,
+    "rcac": true,
+    "phyto": true,
+    "coi": true,
+    "invoice_pl": true,
+    "ched_d": true
+   }
+  }
+ },
+ {
+  "id": "clean",
+  "expect": "SHIP",
+  "title": {
+   "en": "Clean sella lot",
+   "hi": "साफ़ सेला लॉट"
+  },
+  "blurb": {
+   "en": "Every required test on file, all inside EU limits, papers in order.",
+   "hi": "हर ज़रूरी जाँच मौजूद, सब EU सीमा के भीतर, कागज़ात पूरे।"
+  },
+  "input": {
+   "lot": {
+    "form": "sella",
+    "ship_date": "+18d",
+    "origin": "haryana",
+    "lot_id": "HR-1121-0318",
+    "dest": "NL"
+   },
+   "lab": {
+    "accredited": true,
+    "report_date": "-6d",
+    "linked": true,
+    "sampling": "third_party",
+    "screen": true
+   },
+   "results": [
+    {
+     "analyte": "tricyclazole",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "thiamethoxam",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "chlorpyrifos",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "imidacloprid",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "carbendazim",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "propiconazole",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "buprofezin",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "profenofos",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "acephate",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "hexaconazole",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "methamidophos",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "triazophos",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "aflatoxin_b1",
+     "status": "nd",
+     "unit": "ug/kg",
+     "loq": 0.5
+    },
+    {
+     "analyte": "aflatoxin_total",
+     "status": "nd",
+     "unit": "ug/kg",
+     "loq": 1.0
+    },
+    {
+     "analyte": "ochratoxin_a",
+     "status": "nd",
+     "unit": "ug/kg",
+     "loq": 1.0
+    },
+    {
+     "analyte": "arsenic_inorganic",
+     "status": "value",
+     "value": 0.11,
+     "unit": "mg/kg",
+     "loq": null
+    },
+    {
+     "analyte": "cadmium",
+     "status": "value",
+     "value": 0.03,
+     "unit": "mg/kg",
+     "loq": null
+    }
+   ],
+   "sprays": [
+    "buprofezin"
+   ],
+   "docs": {
+    "iec": true,
+    "rcac": true,
+    "phyto": true,
+    "coi": true,
+    "invoice_pl": true,
+    "ched_d": true
+   }
+  }
+ },
+ {
+  "id": "fix",
+  "expect": "FIX_FIRST",
+  "title": {
+   "en": "Thin report",
+   "hi": "अधूरी रिपोर्ट"
+  },
+  "blurb": {
+   "en": "Four tests, one loose LOQ, an old report, a hand-drawn sample and missing papers.",
+   "hi": "चार जाँचें, एक ढीला LOQ, पुरानी रिपोर्ट, खुद लिया नमूना और अधूरे कागज़ात।"
+  },
+  "input": {
+   "lot": {
+    "form": "raw_white",
+    "ship_date": "+9d",
+    "origin": "punjab",
+    "lot_id": "PB-1509-0107",
+    "dest": "BE"
+   },
+   "lab": {
+    "accredited": true,
+    "report_date": "-71d",
+    "linked": false,
+    "sampling": "self",
+    "screen": false
+   },
+   "results": [
+    {
+     "analyte": "tricyclazole",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "carbendazim",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "thiamethoxam",
+     "status": "value",
+     "value": 0.009,
+     "unit": "mg/kg",
+     "loq": null
+    },
+    {
+     "analyte": "chlorpyrifos",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.05
+    }
+   ],
+   "sprays": [
+    "tricyclazole",
+    "tebuconazole"
+   ],
+   "docs": {
+    "iec": true,
+    "rcac": true,
+    "phyto": false,
+    "coi": null,
+    "invoice_pl": true,
+    "ched_d": null
+   }
+  }
+ },
+ {
+  "id": "hold",
+  "expect": "HOLD",
+  "title": {
+   "en": "Passes India, fails the EU",
+   "hi": "भारत में पास, EU में फेल"
+  },
+  "blurb": {
+   "en": "Tricyclazole 0.18 mg/kg is far under India's 3.0 limit but 18× the EU's 0.01.",
+   "hi": "ट्राइसाइक्लाज़ोल 0.18 mg/kg भारत की 3.0 सीमा से बहुत नीचे है, पर EU की 0.01 से 18 गुना।"
+  },
+  "input": {
+   "lot": {
+    "form": "raw_white",
+    "ship_date": "+12d",
+    "origin": "punjab",
+    "lot_id": "PB-1121-0472",
+    "dest": "IT"
+   },
+   "lab": {
+    "accredited": true,
+    "report_date": "-5d",
+    "linked": true,
+    "sampling": "third_party",
+    "screen": true
+   },
+   "results": [
+    {
+     "analyte": "tricyclazole",
+     "status": "value",
+     "value": 0.18,
+     "unit": "mg/kg",
+     "loq": null
+    },
+    {
+     "analyte": "carbendazim",
+     "status": "value",
+     "value": 0.07,
+     "unit": "mg/kg",
+     "loq": null
+    },
+    {
+     "analyte": "thiamethoxam",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    },
+    {
+     "analyte": "chlorpyrifos",
+     "status": "nd",
+     "unit": "mg/kg",
+     "loq": 0.01
+    }
+   ],
+   "sprays": [
+    "tricyclazole",
+    "carbendazim"
+   ],
+   "docs": {
+    "iec": true,
+    "rcac": true,
+    "phyto": true,
+    "coi": true,
+    "invoice_pl": true,
+    "ched_d": true
+   }
+  }
+ },
+ {
+  "id": "early",
+  "expect": "FIX_FIRST",
+  "title": {
+   "en": "Before the lab",
+   "hi": "लैब से पहले"
+  },
+  "blurb": {
+   "en": "Only a spray diary. What must be tested, and why.",
+   "hi": "सिर्फ़ छिड़काव का रिकॉर्ड। क्या जाँचना है, और क्यों।"
+  },
+  "input": {
+   "lot": {
+    "form": "raw_white",
+    "ship_date": null,
+    "origin": "punjab",
+    "lot_id": "",
+    "dest": ""
+   },
+   "lab": {},
+   "results": [],
+   "sprays": [
+    "tricyclazole",
+    "imidacloprid",
+    "carbofuran",
+    "isoprothiolane"
+   ],
+   "docs": {}
+  }
+ }
+]

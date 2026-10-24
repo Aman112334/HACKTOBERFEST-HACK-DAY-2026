@@ -1,0 +1,252 @@
+{
+ "en": {
+  "m": {
+   "limit_exceeded": "{analyte}: {value} {unit} is above the EU limit of {limit} {unit} (×{ratio}).",
+   "limit_close": "{analyte}: {value} {unit} is {pct}% of the EU limit ({limit} {unit}). Normal lab variation can push it over at the border.",
+   "limit_ok": "{analyte}: {value} {unit} is within the EU limit ({limit} {unit}).",
+   "nd_ok": "{analyte}: not detected (LOQ {loq} {unit}), below the EU limit of {limit} {unit}.",
+   "loq_too_high": "{analyte}: your lab tests only down to {loq} {unit}; the EU limit is {limit} {unit}. Compliance cannot be shown.",
+   "loq_missing": "{analyte}: reported as not detected, but no LOQ is stated. Without it, compliance with {limit} {unit} cannot be shown.",
+   "unit_unknown": "{analyte}: unit \"{unit}\" is not recognised. Use mg/kg, ppm, µg/kg or ppb.",
+   "as_total_speciation": "{analyte}: {value} {unit} is above the {limit} {unit} limit for inorganic arsenic. The EU limit covers the inorganic part only, so ask for arsenic speciation before deciding.",
+   "as_total_ok": "{analyte}: {value} {unit}. Even if all of it were inorganic, it is within {limit} {unit}.",
+   "verify_mrl": "{analyte}: {value} {unit} found. No specific EU limit is stored here. If none exists for rice, the default {limit} {unit} applies. Check the EU Pesticides Database before shipping.",
+   "required_missing_signal": "{analyte}: no result on file. The EU limit is {limit} {unit} and it has a record of border alerts on Indian rice. Test it at LOQ ≤ {limit} {unit}.",
+   "required_missing_sprayed": "{analyte}: you sprayed it, but there is no result. The EU limit is {limit} {unit}. Test it at LOQ ≤ {limit} {unit} before shipping.",
+   "required_missing_default": "{analyte}: no result on file. No specific EU limit is stored here; unless one exists for rice, {limit} {unit} applies. Test it at LOQ ≤ {limit} {unit}.",
+   "covered_by_screen": "{analyte}: covered by the multi-residue screen on this report.",
+   "should_missing": "Not reported: {list}. Lower border-alert signal for Indian basmati, but the legal limits apply. Add them if your buyer asks.",
+   "sprayed_note": "{analyte} was sprayed. EU limit for rice: {limit} {unit}.",
+   "sprayed_note_gap": "{analyte} was sprayed. India's FSSAI allows {india_limit} {unit}; the EU allows {limit} {unit}, which is {gap}× stricter. A lot can pass in India and still be refused at the EU border.",
+   "sprayed_note_punjab": "{analyte} was sprayed. It was on Punjab's 2025 restricted list for basmati. EU limit: {limit} {unit}.",
+   "sprayed_note_gap_punjab": "{analyte} was sprayed. India's FSSAI allows {india_limit} {unit}; the EU allows {limit} {unit} ({gap}× stricter), and Punjab restricted it on basmati in 2025.",
+   "sprayed_note_nolimit": "{analyte} was sprayed. No specific EU limit is stored here; unless one exists for rice, {limit} {unit} applies. Check it and test for it.",
+   "sprayed_unknown": "{analyte} is not in the rulebook. Look up its EU limit for rice; unless one exists, {limit} {unit} applies. Test for it.",
+   "lab_missing": "No lab result yet. Border labs check about {pct}% of Indian rice consignments for pesticide residues. Know your result before they do.",
+   "lab_accredited": "The lab is accredited (ISO/IEC 17025) for these tests.",
+   "lab_not_accredited": "The lab is not accredited for these tests. Use an ISO/IEC 17025 (NABL) lab whose scope covers them.",
+   "lab_accreditation_unknown": "Accreditation not confirmed. Check that the lab's ISO/IEC 17025 (NABL) scope covers pesticides, mycotoxins and metals.",
+   "lab_fresh": "The report is {age} days old at shipment (limit {max}).",
+   "lab_stale": "The report is {age} days old at shipment; the limit is {max}. Re-test, or get the buyer's written acceptance.",
+   "lab_date_missing": "Report date is missing.",
+   "lab_date_invalid": "The report date is after the shipment date. Check both dates.",
+   "lab_linked": "The report names this lot or batch.",
+   "lab_unlinked": "The report does not name this lot or batch, so it cannot vouch for it. Ask the lab to quote your lot ID.",
+   "lab_link_unknown": "Not confirmed that the report is tied to this lot or batch.",
+   "sampling_ok": "The sample was drawn by the lab or an independent party.",
+   "sampling_self": "You drew the sample yourself. Border labs expect a sample representative of the whole lot; use an inspection agency or the lab's own sampler.",
+   "sampling_unknown": "Who drew the sample is not stated.",
+   "screen_ok": "The report includes a multi-residue pesticide screen (GC-MS/MS and LC-MS/MS).",
+   "screen_missing": "No multi-residue screen. EU border labs test the pesticides of the EU control programme by GC-MS/MS and LC-MS/MS; a short list of compounds is not enough.",
+   "doc_ok": "{doc}: in hand.",
+   "doc_missing": "{doc}: missing. Get it from {issuer}.",
+   "doc_unconfirmed": "{doc}: not confirmed. Get it from {issuer} and tick it once you hold it.",
+   "regime_checks": "At the EU border about {pct}% of Indian rice consignments go through identity and physical checks, with lab sampling for pesticide residues. The list is reviewed at least every six months.",
+   "mu_note": "Official labs subtract a default {mu}% measurement uncertainty before calling a result non-compliant, so a small exceedance may not be formally non-compliant. Do not rely on that: exceeding an MRL is still treated as a serious risk and notified.",
+   "no_blending": "Do not blend this lot into compliant rice to dilute it. EU contaminant rules forbid mixing compliant food with food above the limits, and a blended lot can still fail at the border.",
+   "market_not_covered": "Destination {dest} is not covered yet. This rules pack covers basmati rice into the EU only, so no limits were checked.",
+   "market_partial": "Document and border-regime checks for {market} are not in the rules pack yet. Only limits were checked."
+  },
+  "a": {
+   "hold": "Do not ship this lot to the EU as it is. Options: confirm on a fresh, properly drawn sample at a second accredited lab (only to rule out lab or sampling error), or divert it to a market whose limits it meets. Never blend.",
+   "retest": "Re-test {analyte} on a fresh sample at a second accredited lab. Check sampling and homogenisation.",
+   "lower_loq": "Re-test at an accredited lab with a detection limit of {limit} {unit} or lower, then attach the new certificate.",
+   "test": "Test {analyte} at LOQ ≤ {limit} {unit}.",
+   "lookup_test": "Look up the EU limit for {analyte} in rice, then test for it.",
+   "verify_mrl": "Check {analyte} for rice in the EU Pesticides Database.",
+   "speciation": "Order inorganic arsenic (speciation), LOQ ≤ {limit} {unit}.",
+   "get_report": "Get a pesticide, mycotoxin and metals report from an accredited lab, on a representative sample.",
+   "lab_fix_accredited": "Use a lab accredited to ISO/IEC 17025 (NABL) for these parameters.",
+   "lab_fix_date": "Add the report date, and check it against the shipment date.",
+   "lab_fix_fresh": "Re-test close to shipment, or get the buyer's written acceptance of the older report.",
+   "lab_fix_linked": "Have the lab quote your lot or batch ID on the report.",
+   "lab_fix_sampling": "Use an inspection agency or the lab's own sampler for a representative sample.",
+   "lab_fix_unit": "Re-enter the result with a unit: mg/kg, ppm, µg/kg or ppb.",
+   "screen": "Ask for a multi-residue screen (GC-MS/MS + LC-MS/MS) with LOQ ≤ 0.01 mg/kg.",
+   "get_doc": "Obtain: {doc} (from {issuer})."
+  },
+  "docs": {
+   "iec": {
+    "name": "Import Export Code (IEC)",
+    "issuer": "DGFT"
+   },
+   "rcac": {
+    "name": "APEDA Registration-cum-Allocation Certificate (RCAC) for this export contract",
+    "issuer": "APEDA"
+   },
+   "phyto": {
+    "name": "Phytosanitary certificate",
+    "issuer": "Plant Quarantine (DPPQS)"
+   },
+   "coi": {
+    "name": "Certificate of Inspection for EU export",
+    "issuer": "EIC / EIA (Export Inspection Agency)"
+   },
+   "invoice_pl": {
+    "name": "Commercial invoice and packing list",
+    "issuer": "your office or CHA"
+   },
+   "ched_d": {
+    "name": "CHED-D pre-notification (importer's TRACES entry)",
+    "issuer": "your EU importer"
+   }
+  },
+  "basis": {
+   "law": "LAW",
+   "guidance": "OFFICIAL GUIDANCE",
+   "practice": "PRACTICE"
+  },
+  "basis_help": {
+   "law": "A binding EU or Indian rule. Only this can cause HOLD.",
+   "guidance": "Official guidance or an accepted method. Can cause FIX FIRST.",
+   "practice": "Buyer or industry practice. Can cause FIX FIRST, never HOLD."
+  },
+  "verdict": {
+   "SHIP": "SHIP",
+   "FIX_FIRST": "FIX FIRST",
+   "HOLD": "HOLD"
+  },
+  "verdict_sub": {
+   "SHIP": "Everything required is evidenced and inside the EU limits.",
+   "FIX_FIRST": "No confirmed breach, but proof is missing or too thin. Close the gaps below, then run it again.",
+   "HOLD": "A result is above a legal EU limit. Do not ship this lot to the EU as it is."
+  },
+  "gates": {
+   "farm": "Farm",
+   "lab": "Lab",
+   "papers": "Papers",
+   "border": "EU border"
+  },
+  "severity": {
+   "block": "Blocks shipment",
+   "fix": "Fix first",
+   "note": "Good to know",
+   "pass": "Cleared"
+  }
+ },
+ "hi": {
+  "m": {
+   "limit_exceeded": "{analyte}: {value} {unit}, EU सीमा {limit} {unit} से अधिक है (×{ratio})।",
+   "limit_close": "{analyte}: {value} {unit}, EU सीमा ({limit} {unit}) का {pct}% है। सीमा पर सामान्य जाँच-अंतर इसे ऊपर ले जा सकता है।",
+   "limit_ok": "{analyte}: {value} {unit}, EU सीमा ({limit} {unit}) के भीतर है।",
+   "nd_ok": "{analyte}: पाया नहीं गया (LOQ {loq} {unit}), EU सीमा {limit} {unit} से नीचे।",
+   "loq_too_high": "{analyte}: आपकी लैब केवल {loq} {unit} तक जाँचती है; EU सीमा {limit} {unit} है। अनुपालन सिद्ध नहीं किया जा सकता।",
+   "loq_missing": "{analyte}: परिणाम \"पाया नहीं गया\" है पर LOQ नहीं दिया गया। इसके बिना {limit} {unit} का अनुपालन सिद्ध नहीं होता।",
+   "unit_unknown": "{analyte}: इकाई \"{unit}\" पहचानी नहीं गई। mg/kg, ppm, µg/kg या ppb इस्तेमाल करें।",
+   "as_total_speciation": "{analyte}: {value} {unit}, अकार्बनिक आर्सेनिक की सीमा {limit} {unit} से अधिक है। EU सीमा केवल अकार्बनिक हिस्से पर लागू होती है, इसलिए निर्णय से पहले आर्सेनिक स्पेशिएशन जाँच करवाएँ।",
+   "as_total_ok": "{analyte}: {value} {unit}। पूरा अकार्बनिक भी माना जाए तो {limit} {unit} के भीतर है।",
+   "verify_mrl": "{analyte}: {value} {unit} मिला। यहाँ इसकी कोई विशिष्ट EU सीमा दर्ज नहीं है; चावल के लिए कोई सीमा न हो तो डिफ़ॉल्ट {limit} {unit} लागू होती है। भेजने से पहले EU Pesticides Database में जाँचें।",
+   "required_missing_signal": "{analyte}: कोई परिणाम नहीं। EU सीमा {limit} {unit} है और भारतीय चावल पर इसके सीमा-अलर्ट का इतिहास है। LOQ ≤ {limit} {unit} पर जाँच कराएँ।",
+   "required_missing_sprayed": "{analyte}: आपने इसका छिड़काव किया है, पर कोई परिणाम नहीं है। EU सीमा {limit} {unit} है। भेजने से पहले LOQ ≤ {limit} {unit} पर जाँच कराएँ।",
+   "required_missing_default": "{analyte}: कोई परिणाम नहीं। यहाँ इसकी विशिष्ट EU सीमा दर्ज नहीं है; चावल के लिए कोई सीमा न हो तो {limit} {unit} लागू होती है। LOQ ≤ {limit} {unit} पर जाँच कराएँ।",
+   "covered_by_screen": "{analyte}: इस रिपोर्ट की मल्टी-रेज़िड्यू स्क्रीन में शामिल है।",
+   "should_missing": "रिपोर्ट में नहीं: {list}। भारतीय बासमती पर सीमा-अलर्ट का संकेत कम है, पर कानूनी सीमाएँ लागू हैं। खरीदार माँगे तो जोड़ें।",
+   "sprayed_note": "{analyte} का छिड़काव हुआ। चावल के लिए EU सीमा: {limit} {unit}।",
+   "sprayed_note_gap": "{analyte} का छिड़काव हुआ। भारत (FSSAI) {india_limit} {unit} तक अनुमति देता है; EU {limit} {unit}, यानी {gap} गुना सख़्त। लॉट भारत में पास होकर भी EU सीमा पर लौटाया जा सकता है।",
+   "sprayed_note_punjab": "{analyte} का छिड़काव हुआ। यह 2025 में पंजाब की बासमती-प्रतिबंधित सूची में था। EU सीमा: {limit} {unit}।",
+   "sprayed_note_gap_punjab": "{analyte} का छिड़काव हुआ। भारत (FSSAI) {india_limit} {unit} तक अनुमति देता है; EU {limit} {unit} ({gap} गुना सख़्त), और पंजाब ने 2025 में बासमती पर इसे प्रतिबंधित किया था।",
+   "sprayed_note_nolimit": "{analyte} का छिड़काव हुआ। यहाँ इसकी विशिष्ट EU सीमा दर्ज नहीं है; चावल के लिए कोई सीमा न हो तो {limit} {unit} लागू होती है। सीमा जाँचें और इसकी जाँच कराएँ।",
+   "sprayed_unknown": "{analyte} रूलबुक में नहीं है। चावल के लिए इसकी EU सीमा देखें; कोई सीमा न हो तो {limit} {unit} लागू होती है। इसकी जाँच कराएँ।",
+   "lab_missing": "अभी कोई लैब परिणाम नहीं है। सीमा पर लैब भारतीय चावल की लगभग {pct}% खेपों में कीटनाशक अवशेष जाँचती हैं। उनसे पहले अपना परिणाम जानें।",
+   "lab_accredited": "लैब इन जाँचों के लिए मान्यता प्राप्त है (ISO/IEC 17025)।",
+   "lab_not_accredited": "लैब इन जाँचों के लिए मान्यता प्राप्त नहीं है। ऐसी ISO/IEC 17025 (NABL) लैब चुनें जिसके दायरे में ये जाँचें हों।",
+   "lab_accreditation_unknown": "मान्यता की पुष्टि नहीं हुई। जाँचें कि लैब का ISO/IEC 17025 (NABL) दायरा कीटनाशक, माइकोटॉक्सिन और धातुएँ कवर करता है।",
+   "lab_fresh": "रिपोर्ट शिपमेंट पर {age} दिन पुरानी है (सीमा {max})।",
+   "lab_stale": "रिपोर्ट शिपमेंट पर {age} दिन पुरानी है; सीमा {max} दिन है। दोबारा जाँच कराएँ या खरीदार की लिखित स्वीकृति लें।",
+   "lab_date_missing": "रिपोर्ट की तारीख नहीं दी गई।",
+   "lab_date_invalid": "रिपोर्ट की तारीख शिपमेंट की तारीख के बाद है। दोनों तारीखें जाँचें।",
+   "lab_linked": "रिपोर्ट में इसी लॉट/बैच का उल्लेख है।",
+   "lab_unlinked": "रिपोर्ट में इस लॉट/बैच का उल्लेख नहीं है, इसलिए यह इसकी गवाही नहीं दे सकती। लैब से अपना लॉट ID दर्ज कराएँ।",
+   "lab_link_unknown": "पुष्टि नहीं कि रिपोर्ट इसी लॉट/बैच से जुड़ी है।",
+   "sampling_ok": "नमूना लैब या किसी स्वतंत्र पक्ष ने लिया।",
+   "sampling_self": "नमूना आपने खुद लिया। सीमा की लैब पूरे लॉट का प्रतिनिधि नमूना मानती हैं; निरीक्षण एजेंसी या लैब के अपने सैंपलर से नमूना लें।",
+   "sampling_unknown": "नमूना किसने लिया, यह नहीं बताया गया।",
+   "screen_ok": "रिपोर्ट में मल्टी-रेज़िड्यू कीटनाशक स्क्रीन (GC-MS/MS और LC-MS/MS) शामिल है।",
+   "screen_missing": "मल्टी-रेज़िड्यू स्क्रीन नहीं है। EU सीमा की लैब, EU नियंत्रण कार्यक्रम के कीटनाशकों की GC-MS/MS और LC-MS/MS से जाँच करती हैं; कुछ चुने हुए यौगिक काफ़ी नहीं।",
+   "doc_ok": "{doc}: उपलब्ध।",
+   "doc_missing": "{doc}: नहीं है। इसे {issuer} से लें।",
+   "doc_unconfirmed": "{doc}: पुष्टि नहीं हुई। इसे {issuer} से लें और हाथ में आने पर टिक करें।",
+   "regime_checks": "EU सीमा पर भारतीय चावल की लगभग {pct}% खेपें पहचान और भौतिक जाँच से गुज़रती हैं, जिनमें कीटनाशक अवशेषों के लिए लैब नमूना शामिल है। सूची की कम से कम हर छह महीने में समीक्षा होती है।",
+   "mu_note": "सरकारी लैब किसी परिणाम को अनुपालन-विहीन कहने से पहले {mu}% की डिफ़ॉल्ट मापन-अनिश्चितता घटाती हैं, इसलिए थोड़ा अधिक परिणाम औपचारिक रूप से अनुपालन-विहीन न भी माना जाए। इस पर निर्भर न रहें: MRL से ऊपर होना फिर भी गंभीर जोखिम माना जाता है और अधिसूचित होता है।",
+   "no_blending": "इस लॉट को अनुपालन वाले चावल में मिलाकर पतला न करें। EU संदूषक नियम सीमा से ऊपर के खाद्य को अनुपालन वाले खाद्य में मिलाने से रोकते हैं, और मिलाया हुआ लॉट भी सीमा पर फेल हो सकता है।",
+   "market_not_covered": "गंतव्य {dest} अभी शामिल नहीं है। यह रूल्स पैक केवल EU में बासमती चावल के लिए है, इसलिए कोई सीमा जाँची नहीं गई।",
+   "market_partial": "{market} के लिए कागज़ात और सीमा-व्यवस्था की जाँच अभी रूल्स पैक में नहीं है। केवल सीमाएँ जाँची गईं।"
+  },
+  "a": {
+   "hold": "इस लॉट को ऐसे ही EU न भेजें। विकल्प: दूसरी मान्यता प्राप्त लैब में ताज़ा, सही ढंग से लिए नमूने पर पुष्टि (केवल लैब या नमूना-त्रुटि को परखने के लिए), या ऐसे बाज़ार में भेजें जिसकी सीमाएँ यह लॉट पूरी करता हो। कभी मिलाएँ नहीं।",
+   "retest": "{analyte} की जाँच दूसरी मान्यता प्राप्त लैब में ताज़ा नमूने पर दोहराएँ। नमूना लेने और मिलाने का तरीका जाँचें।",
+   "lower_loq": "मान्यता प्राप्त लैब में {limit} {unit} या उससे कम की डिटेक्शन लिमिट पर दोबारा जाँच कराएँ, फिर नया प्रमाणपत्र संलग्न करें।",
+   "test": "{analyte} की जाँच LOQ ≤ {limit} {unit} पर कराएँ।",
+   "lookup_test": "चावल में {analyte} की EU सीमा देखें, फिर उसकी जाँच कराएँ।",
+   "verify_mrl": "EU Pesticides Database में चावल के लिए {analyte} की सीमा जाँचें।",
+   "speciation": "अकार्बनिक आर्सेनिक (स्पेशिएशन) जाँच कराएँ, LOQ ≤ {limit} {unit}।",
+   "get_report": "मान्यता प्राप्त लैब से प्रतिनिधि नमूने पर कीटनाशक, माइकोटॉक्सिन और धातुओं की रिपोर्ट लें।",
+   "lab_fix_accredited": "इन पैरामीटर के लिए ISO/IEC 17025 (NABL) मान्यता प्राप्त लैब का उपयोग करें।",
+   "lab_fix_date": "रिपोर्ट की तारीख जोड़ें और शिपमेंट की तारीख से मिलाएँ।",
+   "lab_fix_fresh": "शिपमेंट के करीब दोबारा जाँच कराएँ, या पुरानी रिपोर्ट पर खरीदार की लिखित स्वीकृति लें।",
+   "lab_fix_linked": "लैब से रिपोर्ट में अपना लॉट/बैच ID दर्ज कराएँ।",
+   "lab_fix_sampling": "प्रतिनिधि नमूने के लिए निरीक्षण एजेंसी या लैब के अपने सैंपलर का उपयोग करें।",
+   "lab_fix_unit": "परिणाम इकाई के साथ दोबारा दर्ज करें: mg/kg, ppm, µg/kg या ppb।",
+   "screen": "LOQ ≤ 0.01 mg/kg के साथ मल्टी-रेज़िड्यू स्क्रीन (GC-MS/MS + LC-MS/MS) माँगें।",
+   "get_doc": "प्राप्त करें: {doc} ({issuer} से)।"
+  },
+  "docs": {
+   "iec": {
+    "name": "आयात-निर्यात कोड (IEC)",
+    "issuer": "DGFT"
+   },
+   "rcac": {
+    "name": "इस निर्यात अनुबंध का APEDA पंजीकरण-सह-आवंटन प्रमाणपत्र (RCAC)",
+    "issuer": "APEDA"
+   },
+   "phyto": {
+    "name": "फाइटोसैनिटरी प्रमाणपत्र",
+    "issuer": "पादप संगरोध (DPPQS)"
+   },
+   "coi": {
+    "name": "EU निर्यात के लिए निरीक्षण प्रमाणपत्र (CoI)",
+    "issuer": "EIC / EIA (निर्यात निरीक्षण एजेंसी)"
+   },
+   "invoice_pl": {
+    "name": "कमर्शियल इनवॉइस और पैकिंग लिस्ट",
+    "issuer": "आपका कार्यालय या CHA"
+   },
+   "ched_d": {
+    "name": "CHED-D पूर्व-सूचना (आयातक की TRACES प्रविष्टि)",
+    "issuer": "आपका EU आयातक"
+   }
+  },
+  "basis": {
+   "law": "कानून",
+   "guidance": "आधिकारिक दिशानिर्देश",
+   "practice": "प्रचलन"
+  },
+  "basis_help": {
+   "law": "बाध्यकारी EU या भारतीय नियम। केवल यही रोक (HOLD) का कारण बन सकता है।",
+   "guidance": "आधिकारिक दिशानिर्देश या मान्य पद्धति। पहले सुधारें का कारण बन सकता है।",
+   "practice": "खरीदार या उद्योग का प्रचलन। पहले सुधारें का कारण बन सकता है, रोक का कभी नहीं।"
+  },
+  "verdict": {
+   "SHIP": "भेजें",
+   "FIX_FIRST": "पहले सुधारें",
+   "HOLD": "रोकें"
+  },
+  "verdict_sub": {
+   "SHIP": "जो भी ज़रूरी है उसका प्रमाण है और सब EU सीमा के भीतर है।",
+   "FIX_FIRST": "कोई पुष्ट उल्लंघन नहीं, पर प्रमाण अधूरे हैं। नीचे की कमियाँ पूरी करें, फिर दोबारा जाँचें।",
+   "HOLD": "एक परिणाम EU की कानूनी सीमा से ऊपर है। यह लॉट ऐसे ही EU न भेजें।"
+  },
+  "gates": {
+   "farm": "खेत",
+   "lab": "लैब",
+   "papers": "कागज़ात",
+   "border": "EU सीमा"
+  },
+  "severity": {
+   "block": "शिपमेंट रोकता है",
+   "fix": "पहले सुधारें",
+   "note": "जानने योग्य",
+   "pass": "ठीक"
+  }
+ }
+}

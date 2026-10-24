@@ -1,0 +1,17 @@
+{
+  "name": "NiryatSafe",
+  "short_name": "NiryatSafe",
+  "description": "Pre-shipment border check for Indian basmati exports to the EU. Works offline in Hindi and English.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#e8e8e3",
+  "theme_color": "#e8e8e3",
+  "lang": "en",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

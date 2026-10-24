@@ -1,0 +1,85 @@
+[
+ {
+  "line": "Tricyclazole\t<0.01\tmg/kg\t0.01",
+  "expect": {
+   "analyte": "tricyclazole",
+   "status": "nd",
+   "loq": 0.01,
+   "unit": "mg/kg"
+  }
+ },
+ {
+  "line": "Carbendazim   ND   mg/kg   0.01",
+  "expect": {
+   "analyte": "carbendazim",
+   "status": "nd",
+   "loq": 0.01,
+   "unit": "mg/kg"
+  }
+ },
+ {
+  "line": "Thiamethoxam; 0,012; mg/kg; 0.01",
+  "expect": {
+   "analyte": "thiamethoxam",
+   "status": "value",
+   "value": 0.012,
+   "loq": 0.01
+  }
+ },
+ {
+  "line": "3. Chlorpyriphos\tNot Detected\tmg/kg",
+  "expect": {
+   "analyte": "chlorpyrifos",
+   "status": "nd",
+   "unit": "mg/kg"
+  }
+ },
+ {
+  "line": "Aflatoxin B1 | 2.4 | ug/kg",
+  "expect": {
+   "analyte": "aflatoxin_b1",
+   "status": "value",
+   "value": 2.4,
+   "unit": "ug/kg"
+  }
+ },
+ {
+  "line": "Aflatoxin B1\t2.4\tµg/kg",
+  "expect": {
+   "analyte": "aflatoxin_b1",
+   "status": "value",
+   "value": 2.4,
+   "unit": "ug/kg"
+  }
+ },
+ {
+  "line": "Cadmium  0.021 ± 0.006 mg/kg",
+  "expect": {
+   "analyte": "cadmium",
+   "status": "value",
+   "value": 0.021,
+   "unit": "mg/kg"
+  }
+ },
+ {
+  "line": "Parameter\tResult\tUnit\tLOQ",
+  "expect": null
+ },
+ {
+  "line": "Diazinon\tBQL\tmg/kg\t0.01",
+  "expect": {
+   "analyte": "diazinon",
+   "status": "nd",
+   "loq": 0.01
+  }
+ },
+ {
+  "line": "Inorganic Arsenic\t0.08\tppm",
+  "expect": {
+   "analyte": "arsenic_inorganic",
+   "status": "value",
+   "value": 0.08,
+   "unit": "ppm"
+  }
+ }
+]

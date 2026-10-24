@@ -1,0 +1,7 @@
+# runtime
+fastapi>=0.100
+uvicorn[standard]>=0.23
+pydantic>=1.10
+pandas>=2.0
+pyyaml>=6.0
+openpyxl>=3.1        # only to read .xlsx exports (RASFF Window / FDA)

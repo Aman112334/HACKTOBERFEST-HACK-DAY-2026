@@ -1,0 +1,4 @@
+-r requirements.txt
+playwright>=1.45     # scripts/e2e.py, scripts/record_demo.py   (then: playwright install chromium)
+fonttools>=4.40      # scripts/make_assets.py
+Pillow>=10.0

@@ -1,0 +1,312 @@
+{
+ "built_on": "2026-10-23",
+ "by_analyte": {
+  "acephate": {
+   "by_year": {
+    "2015": 1,
+    "2016": 1,
+    "2017": 5,
+    "2018": 3,
+    "2019": 2
+   },
+   "recent": 0,
+   "total": 12
+  },
+  "buprofezin": {
+   "by_year": {
+    "2020": 2
+   },
+   "recent": 0,
+   "total": 2
+  },
+  "carbendazim": {
+   "by_year": {
+    "2015": 7,
+    "2016": 1,
+    "2018": 7,
+    "2021": 1,
+    "2022": 1,
+    "2023": 1,
+    "2024": 2
+   },
+   "recent": 5,
+   "total": 20
+  },
+  "chlorpyrifos": {
+   "by_year": {
+    "2018": 2,
+    "2021": 2,
+    "2022": 2,
+    "2023": 6,
+    "2024": 5,
+    "2025": 1
+   },
+   "recent": 16,
+   "total": 18
+  },
+  "chlorpyrifos_methyl": {
+   "by_year": {
+    "2015": 1
+   },
+   "recent": 0,
+   "total": 1
+  },
+  "hexaconazole": {
+   "by_year": {
+    "2015": 2
+   },
+   "recent": 0,
+   "total": 2
+  },
+  "imazalil": {
+   "by_year": {
+    "2024": 1
+   },
+   "recent": 1,
+   "total": 1
+  },
+  "imidacloprid": {
+   "by_year": {
+    "2022": 1,
+    "2023": 5,
+    "2024": 3
+   },
+   "recent": 9,
+   "total": 9
+  },
+  "methamidophos": {
+   "by_year": {
+    "2015": 1,
+    "2017": 3,
+    "2018": 2,
+    "2019": 1
+   },
+   "recent": 0,
+   "total": 7
+  },
+  "profenofos": {
+   "by_year": {
+    "2015": 1,
+    "2018": 1,
+    "2023": 1
+   },
+   "recent": 1,
+   "total": 3
+  },
+  "propiconazole": {
+   "by_year": {
+    "2022": 2,
+    "2023": 1,
+    "2024": 2
+   },
+   "recent": 5,
+   "total": 5
+  },
+  "thiamethoxam": {
+   "by_year": {
+    "2018": 1,
+    "2019": 6,
+    "2020": 2,
+    "2021": 6,
+    "2022": 12,
+    "2023": 15,
+    "2024": 15,
+    "2025": 3
+   },
+   "recent": 51,
+   "total": 60
+  },
+  "thifluzamide": {
+   "by_year": {
+    "2024": 2
+   },
+   "recent": 2,
+   "total": 2
+  },
+  "triazophos": {
+   "by_year": {
+    "2015": 2,
+    "2018": 3
+   },
+   "recent": 0,
+   "total": 5
+  },
+  "tricyclazole": {
+   "by_year": {
+    "2018": 14,
+    "2019": 8,
+    "2020": 7,
+    "2021": 6,
+    "2022": 22,
+    "2023": 19,
+    "2024": 19,
+    "2025": 2
+   },
+   "recent": 68,
+   "total": 97
+  }
+ },
+ "demo": false,
+ "gap": [
+  {
+   "analyte": "tricyclazole",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 1.0,
+   "eu_now": 0.01,
+   "fssai": 3.0,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "thiamethoxam",
+   "codex": 3.0,
+   "codex_note": "polished rice",
+   "eu_before": 0.01,
+   "eu_now": 0.01,
+   "fssai": 0.02,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "chlorpyrifos",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 0.5,
+   "eu_now": 0.01,
+   "fssai": 0.5,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "imidacloprid",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 1.5,
+   "eu_now": 0.01,
+   "fssai": 0.05,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "carbendazim",
+   "codex": 2.0,
+   "codex_note": "husked rice",
+   "eu_before": 0.01,
+   "eu_now": 0.01,
+   "fssai": 2.0,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "propiconazole",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 1.5,
+   "eu_now": 0.01,
+   "fssai": 0.05,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "buprofezin",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 0.5,
+   "eu_now": 0.01,
+   "fssai": 0.05,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "profenofos",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 0.01,
+   "eu_now": 0.01,
+   "fssai": null,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "thifluzamide",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": null,
+   "eu_now": null,
+   "fssai": 0.05,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "imazalil",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 0.05,
+   "eu_now": 0.01,
+   "fssai": null,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "acephate",
+   "codex": 1.0,
+   "codex_note": "husked rice",
+   "eu_before": 0.02,
+   "eu_now": 0.01,
+   "fssai": 1.0,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "methamidophos",
+   "codex": 0.6,
+   "codex_note": "husked rice",
+   "eu_before": 0.01,
+   "eu_now": 0.01,
+   "fssai": null,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "triazophos",
+   "codex": 0.6,
+   "codex_note": "polished rice",
+   "eu_before": 0.02,
+   "eu_now": 0.02,
+   "fssai": 0.6,
+   "source_id": "ls_2057_2025"
+  },
+  {
+   "analyte": "chlorpyrifos_methyl",
+   "codex": null,
+   "codex_note": null,
+   "eu_before": 3.0,
+   "eu_now": 0.01,
+   "fssai": null,
+   "source_id": "ls_2057_2025"
+  }
+ ],
+ "hazards": {},
+ "recent_span": [
+  2021,
+  2025
+ ],
+ "sources": [
+  {
+   "first_year": 2015,
+   "id": "ls_2057_2025",
+   "kind": "reference",
+   "label": "Government of India, Lok Sabha USQ 2057 (11 Mar 2025): EU RASFF detections in Indian rice, 2015 to Mar 2025",
+   "last_year": 2025,
+   "rows": 244,
+   "synthetic": false
+  }
+ ],
+ "totals": {
+  "first_year": 2015,
+  "last_year": 2025,
+  "notifications": 244
+ },
+ "years": [
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ]
+}
